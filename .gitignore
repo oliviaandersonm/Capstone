@@ -1,0 +1,15 @@
+# Ignore notebooks
+*.ipynb
+
+# Ignore large data files
+data/
+
+# Ignore large/unused model files
+tests/
+*.h5
+*.pkl
+*.joblib
+
+# Ignore temporary files & other data
+LSTM/temp_dict.csv
+*.csv

@@ -1,0 +1,1100 @@
+<<<<<<< HEAD
+https://www.reuters.com/article/us-ethiopia-airplane-data-idUSKBN1QR0A8
+Ethiopia flight 'had unstable vertical speed' - flight tracking site
+NAIROBI (Reuters) - An Ethiopian Airlines Boeing 737 passenger jet to Nairobi that crashed early on Sunday with 149 passengers and eight crew members aboard “had unstable vertical speed”, Swedish flight-tracking website flightradar24 said.
+
+“Data from Flightradar24 ADS-B network show that vertical speed was unstable after take off,” the Swedish-based flight tracking organization said on its Twitter feed.
+*****
+https://www.reuters.com/article/us-ethiopia-airplane-casualties-idUSKBN1QR0BY
+'No survivors' from crashed Ethiopian Airlines flight: state broadcaster
+A woman reacts as she waits for the updated flight information of Ethiopian Airlines Flight ET 302, where her fiance was onboard at the Jomo Kenyatta International Airport (JKIA) in Nairobi, Kenya March 10, 2019. REUTERS/Baz Ratner
+
+ADDIS ABABA (Reuters) - There were no survivors from an Ethiopian Airlines flight that crashed with 149 passengers and eight crew members aboard, the state broadcaster said on Sunday.
+
+“There are no survivors onboard the flight, which carried passengers from 33 countries,” said state-run Ethiopian Broadcasting Corporation, quoting an unidentified source at the airline.
+=======
+http://techcrunch.com/2019/03/13/after-faa-doubles-down-on-737-decision-canada-grounds-the-planes-amid-reports-of-complaints-from-u-s-pilots/
+After FAA doubles down on 737 decision, Canada grounds the planes amid reports of complaints from U.S. pilots
+After FAA doubles down on 737 decision, Canada grounds the planes amid reports of complaints from U.S. pilots
+
+After the Federal Aviation Administration issued a statement late yesterday doubling down on its decision to keep the Boeing 737 Max planes at the heart of two accident investigations flying, Canada has become the latest nation to ground the plane.
+
+“There are — and I hasten to say not conclusive — but there are similarities,” said Canadian Transport Minister Marc Garneau, in a statement broadcast on Canadian television. Garneau noted that the similarities “exceed a certain threshold in our minds with respect to the possible cause of what happened in Ethiopia. This is not conclusive, but it is something that points possibly in that direction, and at this point we feel that threshold has been crossed.”
+
+Canadian concerns actually echo incident reports that were made by pilots in the U.S. regarding the control system of Boeing’s latest version of its 737 flagship aircraft.
+
+At least two pilots who had flown the 737 Max 8 planes in the U.S. commented in incident reports about the noses of their planes dipping when the autopilot system on the aircraft had been engaged, according to a report in The New York Times citing a federal government database of incident reports.
+
+Those reported problems are similar to the ones that occurred before the October Lion Air crash of Flight 610 in Indonesia.
+
+Meanwhile, the U.S. Federal Aviation Administration is standing behind its decision to keep the Boeing 737 Max 8 planes airborne.
+
+In a statement issued late yesterday, the FAA said it is reviewing all available data and has found “no systemic performance issues.”
+
+The plane has been involved in two accidents within the last 6 months.
+
+On Sunday, an Ethiopian Airlines flight crashed just after take off killing all 157 people on board. Last year, in October, the Boeing 737 Max 8 was involved in a crash in which an Indonesian Lion Air jet also crashed, killing 189 passengers and crew.
+
+Roughly 350 737 Max 8 planes remain in service around the globe, mainly in the U.S.
+
+Meanwhile, fleets using Boeing’s latest 737 in countries across the globe have grounded the aircraft. The plane has been suspended from service in AeroMexico, Argentina, Australia, Brazil’s Gol airline, China, Egypt, all European countries, three Persian Gulf states, India, Iceland, Indonesia, Malaysia, Mongolia, Singapore, South Korea, and Turkey.
+
+Here’s the full statement from the FAA.
+*****
+http://techcrunch.com/2019/03/13/boeing-requests-faa-ground-the-737-as-the-president-pushes-an-emergency-order/
+Boeing requests FAA ground the 737 as the president pushes an emergency order
+After consulting with the Federal Aviation Administration, the National Transportation Safety Board and airlines, Boeing is throwing its support behind a decision to ground its 737 Max planes.
+
+“Boeing has determined — out of an abundance of caution and in order to reassure the flying public of the aircraft’s safety — to recommend to the FAA the temporary suspension of operations of the entire global fleet of 371 737 MAX aircraft,” the company said in a statement.
+
+Boeing’s statement comes amid mounting pressure for the FAA to ground Boeing’s planes and belies the company’s reported efforts behind the scenes to keep its planes aloft — at least in the United States.
+
+The company’s chief executive, Dennis A. Muilenburg, reportedly called from Chicago to assure President Trump about the safety of the planes, which have been involved in crashes on flights operated by Ethiopian and Indonesian airline carriers, according to a report in The New York Times.
+
+According to the Times report, the call had been planned since Monday, but came after the president had called the safety of passenger airlines into question — blaming an overabundance of technology for the recent spate of accidents.
+
+Airplanes are becoming far too complex to fly. Pilots are no longer needed, but rather computer scientists from MIT. I see it all the time in many products. Always seeking to go one unnecessary step further, when often old and simpler is far better. Split second decisions are…. — Donald J. Trump (@realDonaldTrump) March 12, 2019
+
+Indeed, Boeing’s acquiescence arrives even as President Donald Trump was readying an emergency order that would ground the planes.
+
+BREAKING: Trump: "We're going to be issuing an emergency order of prohibition regarding all flights of the 737 max 8 and 737 max 9." — Abby D. Phillip (@abbydphillip) March 13, 2019
+
+“We are supporting this proactive step out of an abundance of caution. Safety is a core value at Boeing for as long as we have been building airplanes; and it always will be. There is no greater priority for our company and our industry,” according to a statement from Boeing. “We are doing everything we can to understand the cause of the accidents in partnership with the investigators, deploy safety enhancements and help ensure this does not happen again.”
+
+And the Federal Aviation Administration has now grounded the planes.
+
+Here’s the statement from the FAA:
+>>>>>>> 036606f5efa6a891bc0940ece104183b0c021e18
+*****
+https://www.wired.com/story/crashed-ethiopian-air-jet-same-model-lion-air-accident/
+Crashed Ethiopian Air Jet Is Same Model as Lion Air Accident
+An Ethiopian Airlines Boeing 737-800 MAX crashed into the ground Sunday morning after taking off from Addis Ababa, killing all 157 people aboard. It’s the second time in six months this type of jet has crashed in the first few minutes of flight, resurfacing questions about the safety of the plane, which entered service in May 2017.
+
+The Nairobi-bound plane, Flight 302, took off from Addis Ababa’s Bole International Airport at 8:38 am local time. It lost contact with the ground eight minutes later, according to a statement from the airline. Flight tracking site FlightRadar24 reports the jet’s vertical speed was unstable after takeoff.
+
+The victims—eight crew members and 149 passengers—were of 35 nationalities, including 32 Kenyans, 18 Canadians, and eight Americans. The Ethiopian Civil Aviation Authority and Transport Authority are investigating the crash. As the plane was manufactured in the United States, the American National Transportation Safety Board will send a four-person team to assist, a spokesperson says. Boeing and the airline have both said they will assist with the investigation.
+
+The senior captain on the Ethiopian flight, Yared Getachew, had logged more than 8,000 flight hours. The first officer, Ahmed Nur Mohammod Nur, had 200 flight hours, according to the airline, which also said that the plane underwent “a rigorous first check maintenance” on February 4.
+
+While authorities say it’s too early to speculate about what caused the crash, the situation is scarily reminiscent of the Lion Air crash that killed 189 people after plunging into the Java Sea last October, shortly after takeoff. That plane also showed unstable vertical speed. The Indonesian Transportation Safety Committee found that Lion Air Flight 610 had an erroneous input from one of its angle-of-attack sensors. Afterward, Boeing issued a safety warning, advising airlines operating the 737 MAX to have their pilots review how to handle such readings. The Federal Aviation Administration then issued an Airworthiness Directive, making that advice mandatory for US airlines.
+
+The angle-of-attack sensor indicates how much lift the plane’s wings are generating. When commercial jets detect an overly steep angle of attack, their safety systems automatically point the nose downward, to limit the chance of a loss of lift and to avoid an aerodynamic stall. As WIRED reported at the time, “If the readings are incorrect or inconsistent, both the automation and the humans can be confused into pushing further and further down while they're trying to figure out what’s going on and what to do about it, causing the sharp nose dive.”
+
+It’s grim news for Boeing, which designed the 737 MAX to replace the 737 as its most popular single-aisle jet. It’s the company’s fastest-selling plane ever: Boeing has taken 4,700 orders from more than 100 customers.
+
+More Great WIRED Stories
+*****
+<<<<<<< HEAD
+https://www.reuters.com/article/us-texas-crash-idUSKCN1QK0OL
+Flight data recorder recovered from fatal Texas cargo plane crash
+(Reuters) - Investigators have recovered the flight data recorder from a cargo plane that crashed on Feb. 23 in Texas, killing all three people on board, the U.S. National Transportation Safety Board said on Sunday.
+
+The NTSB also posted two photos on Twitter showing the battered bright orange recorder found in the murky waters of Trinity Bay, near the small city of Anahuac.
+
+The Amazon Prime Air cargo plane operated by Atlas Air Worldwide Holdings was flying to Houston from Miami when it nosedived into the bay, about 20 miles (32 km) southeast of Houston’s George Bush Intercontinental Airport.
+
+After the NTSB said on Friday that investigators recovered the cockpit voice recorder from the Boeing 767 cargo jetliner, the discovery of its flight data recorder could further help determine what caused the crash, which has been unclear.
+
+NTSB chairman Robert Sumwalt has said the agency is examining security camera footage from a local jail that showed the plane careening downward minutes before its planned landing. There was no distress call, officials have said.
+*****
+https://www.reuters.com/article/us-malaysia-airlines-mh370-families-chin-idUSKCN1QO0V7
+'I will never give up': relatives of missing Chinese on MH370 vow to keep searching
+HANDAN, China (Reuters) - Every Saturday, Chinese farmer Li Eryou still calls the long-disconnected mobile telephone number of his son, who was among the 239 aboard Malaysia Airlines flight MH370 when it vanished five years ago in the world’s greatest aviation mystery.
+
+“I don’t care what’s on the other end,” said the 60-year-old farmer from rural Handan, in the northern province of Hebei, as he described his weekly ritual. “I would always say a few words to my son.”
+
+Li Yanlin, who worked in Malaysia for Chinese telecoms equipment giant ZTE, was 30 when the flight from Kuala Lumpur to Beijing disappeared on March 8, 2014, with 153 Chinese citizens on board.
+
+“My son was the first person in our village to go abroad by plane,” his father told Reuters, as he thumbed through an album of his son’s last photos holidaying in Malaysia, downloaded from social media by his distraught parents.
+
+Li’s wife, Liu Shuangfeng, said she frequently cries herself to sleep and has been diagnosed with severe depression.
+
+Efforts to locate the aircraft have been unsuccessful.
+
+In January 2017, Australia, China and Malaysia called off a two-year, $141-million underwater search in the southern Indian Ocean after it found no trace of the aircraft.
+
+A second, three-month search, led by U.S. exploration firm Ocean Infinity, ended unsuccessfully last May.
+
+Last week Malaysia said it would consider resuming the search if viable proposals or credible leads emerged, but a lack of closure continues to gnaw at those left behind.
+
+Slideshow (4 Images)
+
+After his son’s disappearance, Li left his wheat crops overgrown and untended as he traveled back and forth to the Chinese capital of Beijing for meetings with Malaysian and Chinese authorities.
+
+The hundreds of train tickets and receipts he accumulated in that effort will inspire him to keep up the search, he said.
+
+“It has been five years, but I haven’t given up and will never give up,” Li said. “I will continue to search for my son.”
+*****
+https://www.reuters.com/article/us-ethiopian-airplane-usa-idUSKBN1QR0GZ
+U.S. to send teams to assist in Ethiopian Airlines crash
+People walk at the scene of the Ethiopian Airlines Flight ET 302 plane crash, near the town of Bishoftu, southeast of Addis Ababa, Ethiopia March 10, 2019. REUTERS/Tiksa Negeri
+
+WASHINGTON (Reuters) - The U.S. National Transportation Safety Board will send four people to assist in the fatal Ethiopian Airlines crash, an NTSB spokesman said on Sunday.
+
+The U.S. Federal Aviation Administration is also monitoring developments concerning the crash, a statement said. “We are in contact with the State Department and plan to join the NTSB in its assistance with Ethiopian civil aviation authorities to investigate the crash,” an FAA statement said.
+
+An Ethiopian Airlines Boeing 737 passenger jet to Nairobi crashed Sunday with 149 passengers and eight crew members aboard, the airline said earlier.
+*****
+https://www.nytimes.com/2019/03/01/science/spacex-crew-dragon-launch.html
+SpaceX and NASA Launch Is First Step to Renewed Human Spaceflight
+He described himself as emotionally exhausted. “But it worked,” Mr. Musk said of Crew Dragon. “So far.”
+
+[Sign up to get reminders for space and astronomy events on your calendar.]
+
+To date, the company has sent into space only satellites and cargo (and one Tesla sports car). “We still haven't launched anyone yet, but hopefully, we will later this year,” Mr. Musk said. “So that would definitely be a culmination of a long dream for a lot of people, me and a lot of people at SpaceX.”
+
+For the past eight years, NASA has been paying for rides on Russian spacecraft to get its astronauts to and from the International Space Station. Instead of developing and operating its own replacement for the space shuttles, NASA has instead turned to private companies to provide that service. In 2014, the space agency awarded two contracts, to SpaceX and to Boeing.
+
+The mission that launched Saturday, known as Demo-1, is an end-to-end test of the spacecraft from launch to docking at the International Space Station to re-entering over the United States and splashing down in the Atlantic Ocean.
+
+The capsule is to arrive at the space station on Sunday, about 27 hours after launch. Unlike earlier SpaceX missions that took cargo to the space station, which approached from below and was then grabbed by the station’s robotic arm, the Crew Dragon capsule will approach from the front and autonomously dock.
+*****
+https://www.wired.com/story/spacex-is-sending-its-first-crew-ready-capsule-to-the-iss/
+SpaceX Is Sending Its First Crew-Ready Capsule to the ISS
+On Saturday, SpaceX is taking its most ambitious step yet toward launching people into space. It’s not sending anyone with a pulse just yet, but this upcoming launch is still a high-consequence event. In the wee hours of the morning on March 2, SpaceX’s shiny new astronaut taxi—dubbed Crew Dragon—will take to the skies, bound for the International Space Station.
+
+The flight, officially known as Demo Mission-1 (or DM-1), stars an upgraded version of SpaceX’s Dragon cargo craft. SpaceX has always intended for its Dragon capsules to ferry humans, but every SpaceX Dragon capsule launched so far has only shuttled cargo to and from the ISS. The upgraded version, debuting on DM-1, will feature new crew life-support systems, seats, control panels, and a propulsion system that can be used to keep the crew safe during a launch emergency. But it won’t carry people; before astronauts can climb aboard, SpaceX has to prove Dragon is ready.
+
+That doesn’t mean that the craft will be empty. SpaceX says Dragon will carry supplies for the crew currently on the space station, a radiation experiment, and a mannequin similar to the Starman that flew on board the first Falcon Heavy mission. Perched in one of the craft’s seats, the faux astronaut will be suited up in a custom flight suit that will let SpaceX collect data on the capsule’s environment.
+
+Saturday’s mission—which will last approximately five days—is a shortened version of the ones that future crews will complete. That’s because its purpose is to provide critical data about how Crew Dragon performs in space. “Demo-1 is a flight test but also a real mission, a very critical mission,” Bill Gerstenmaier, associate administrator for NASA’s human spaceflight program, said in a news briefing last week.
+
+“It’s a test flight, but it’s more than a test flight,” he added. “It’s a mission to the International Space Station.”
+
+Following a Saturday launch, Crew Dragon is expected to arrive on Sunday morning at the International Space Station, where one of its key tasks will be to show NASA that it can safely dock with the space station—a first for Dragon. To date, all Dragon cargo crafts have berthed it instead: The spacecraft approaches the station and waits for a crew member to grapple it with one of the station’s robotic arms, securing it into place. With this Crew Dragon, the craft’s onboard computers will undertake the riskier maneuver of guiding it in to dock itself.
+
+"We need to make sure that it can safely go rendezvous and dock with the space station, and undock safely, and not pose a hazard to the International Space Station," Kathy Lueders, manager of NASA's Commercial Crew Program, said during the same briefing.
+
+The domed black-and-white capsule can accommodate up to seven passengers, and represents not only the next big step in SpaceX’s evolution but also NASA’s dependence on a commercial space industry. Saturday’s mission will be the first time that a private company launches a crew-ready US vehicle since the final flight of the space shuttle Atlantis eight years ago. (Currently NASA and others around the world depend on pricey Russian rockets to send crew to and from the ISS.)
+
+LEARN MORE The WIRED Guide to commercial space flight
+
+Following the shuttle program’s end, NASA put its faith in the commercial sector, selecting two companies to build its future space taxis: SpaceX and Boeing. These two companies have worked since 2014 to build a spacecraft capable of carrying crew under a contract worth $6.8 billion. Their vehicles—SpaceX’s Crew Dragon and Boeing’s CST-100 Starliner—will be the agency’s primary means of ferrying astronauts to space.
+
+"Human spaceflight is the core mission of SpaceX, so we are really excited to do this. There is nothing more important for us than this endeavor. We really appreciate the opportunity from NASA to really do this and have a chance to fly up to the station," Hans Koenigsmann, SpaceX's vice president for build and flight reliability, said in the briefing.
+
+If all goes according to plan, sometime this summer a pair of astronauts will fly to the station for a two-week stay. But before that can happen, SpaceX will also conduct a test flight in April. This time it will demonstrate how well the vehicle’s emergency abort system works. Designed to keep the crew safe, this feature is only meant to be used in the event something goes wrong during flight. During the test, eight thrusters—which are embedded in Dragon’s hull—will fire and carry the capsule away from the rocket. (The system is similar to the emergency abort system on the Soyuz rocket, which saved two astronauts during a mishap last October).
+
+NASA officials explained in last week’s briefing that Crew Dragon was greenlit for this test flight but is not ready for people just yet. There are still a lot of issues that need to be reviewed before the first crew members can climb aboard—engineers need to make sure the craft’s parachute system performs as expected, and NASA is still analyzing a pesky piece of hardware: COPVs.
+
+Every Falcon 9 rocket contains these COPVs, or composite overwrapped pressure vessels, which help the fuel tank maintain the pressure it needs during flight as fuel is depleted. Following a mishap in 2016 when a SpaceX rocket exploded on the pad after a COPV ruptured during a routine prelaunch test, SpaceX redesigned the vessels. “The amount of testing and research that’s gone into COPV safety is gigantic,” Musk said during a prelaunch call prior to the first Block 5 launch last year. “This is by far the most advanced pressure vessel developed by humanity.”
+
+In order to test the upgrades, NASA says that SpaceX will need to fly seven Falcons with the new COPVs before flying people. To date, SpaceX has flown five of those missions.
+
+But if the capsule successfully makes it to orbit and back, SpaceX will be one step closer to its ultimate goal: launching people.
+
+More Great WIRED Stories
+*****
+https://www.bbc.co.uk/news/av/world-middle-east-47421627/the-people-fleeing-the-end-of-the-islamic-state-in-syria
+The people fleeing the end of the Islamic State in Syria
+Video
+
+At its height, five years ago, the so-called Islamic State controlled 88,000 sq km (34,000 sq miles) of territory, stretching from western Syria to eastern Iraq.
+
+The jihadist group has now been contained to an area of less than half a square kilometre, according to its opponents.
+
+Women, children, the injured and surrendered fighters are among those fleeing Baghuz, the Islamic State group's last remaining territory in Syria.
+*****
+https://www.reuters.com/article/us-ethiopia-airplane-china-idUSKBN1QR0DG
+Eight Chinese passengers were on crashed Ethiopian Airlines plane: Chinese state TV
+BEIJING (Reuters) - Eight Chinese passengers were aboard an Ethiopian Airlines Boeing 737 commercial jet to Nairobi that crashed on Sunday carrying 149 passengers and eight crew members, Chinese state TV said.
+
+CCTV said on a social media site that “eight Chinese citizens were aboard” the Flight ET 302 which crashed near the town of Bishoftu shortly after taking off.
+*****
+https://www.bbc.co.uk/news/world-middle-east-47407440
+Life inside the chaos left by the Islamic State group's fall
+Image caption Children like Hamza are among the group's last evacuees
+
+US President Donald Trump says "100%" of the Islamic State group's territory has now been taken over, even though local commanders with the US allies, the Syrian Democratic Forces (SDF), maintain total victory will be declared within a week.
+
+As the battle draws to a close, the BBC's Quentin Sommerville met some of those leaving the group's last stronghold, Baghuz.
+
+Hamza Jasim al-Ali's world is small and terrible. He hasn't moved far in life, living always along the same 40km (25 mile) stretch on the banks of the Euphrates.
+
+His journey, still without end, took him from al-Qaim in Iraq, across the border to Syria and into the dark centre of what was the Islamic State group's nightmare caliphate. He has seen more of life and death than any child of 12 should.
+
+Now he is far from his river, sitting on the desert floor in a wind-whipped tent, alone - apart from an elderly woman who barely knows him. His leg is broken, but healing, and he smiles as I ask him questions.
+
+I asked him what life was like inside.
+
+"It was good," he says, smiling again. "Less food and water and a lot of fighting. It was heavy fighting."
+
+Does he still like IS? "No. Why would I like them after all they have done?" he answers.
+
+Hamza is an IS orphan. His father joined the group and took the whole family with him. He died five months ago, along with Hamza's mother and brothers and sisters in an air strike that was part of the battle to drive the group from its last toehold of territory in Syria.
+
+IS's victims number millions - they displaced and terrorised people across Iraq, Syria and Libya. Their treatment of the Yazidis was genocidal, according to the United Nations. But they also brutalised and corrupted not just their enemies, but their own children, too.
+
+Image caption Women and children are sent to displacement camps
+
+As part of a ceasefire deal, more than 6,000 women and children have left IS territory, along with injured male fighters. The Islamic State group's dreams of a sprawling caliphate have been reduced to a pathetic encampment around the village of Baghuz. Their first stop when they get out is the desert, where thousands are processed in the open. The air is acrid and filthy; many of them are sick. They defecate out in the open.
+
+Most are then moved on to an overwhelmed internment camp near the city of Hassaka, in the village of al-Hawl. As Hamza and I speak, there's a lull outside - the day's IS refugees have yet to arrive, and last night's have already been put on to cattle trucks for the long journey across desert roads to al-Hawl.
+
+Image caption Some have fled with suitcases containing the last of their belongings
+
+Image caption Monitors say thousands have been evacuated in recent weeks
+
+They are searched individually, by Kurdish women fighters, but it is not known if they are finger-printed or photographed. The injured men's pictures and other biometric data are taken before they are sent to detention. But there are limits to the investigations that can be carried out into the crimes of which they are suspected. It is not clear how long the Kurdish authorities can hold them. Some of the men said they expected to be freed in a few months' time.
+
+One man, who said he was from Aleppo, claimed he was a caretaker. At the edge of the processing area, he told me: "I'll do the supposed detention time and then go live with my parents and leave everything behind me. I'll go live with my mum. That'll be best."
+
+Another, Abu Bakr al-Ansari, showed little regret. "All Muslims will be sad it's gone because they wanted their own state," he says. "They won't live free to practise their religion in other Muslim countries."
+
+Both were then taken away to Kurdish detention.
+
+Across the desert plain, I find discarded belongings: mobile phones that have been smashed or burned in camp fires, USB drives snapped in two.
+
+There are photographs in the dirt, too - one of four young girl scouts, another of a girl wearing a headscarf. Was one of them now on her way to al-Hawl camp?
+
+Image caption Personal belongings could be seen among scattered debris
+
+Amid the soiled nappies and empty tinned cans of food, a family ration card. It belongs to a Kosovan family. The father had a senior position within IS. But that's another story.
+
+In this mess of abandonment, there is purpose and care. A computer hard drive has been stamped on and covered in human excrement.
+
+Many of the women left IS not because they wanted to, but because they were ordered to. Plenty still carried their husbands' worn military backpacks.
+
+It appears that they want their enemies - the Kurds and the Western coalition - to have little clue to who they are. I met women from Turkey, Iraq, Chechnya, Russia and Dagestan. Some expected to be reunited with their husbands who are still inside Baghuz, waiting for the final battle. Many are still fanatics.
+
+Image caption What to do with foreign fighters and their children has sparked fierce debate
+
+Image caption Many of the women's husbands remained inside the Baghuz hideout
+
+A Tunisian-Canadian woman, her niqab streaked with stains under purple-framed glasses, gave her name as Umm Yousef. Her husband, a Moroccan, had been killed, but she may have married another who was still inside. She said she had no regrets and had learned much from IS.
+
+"So Allah, he made this to test us," she told me. "Without food, without money and without houses, but now I'm happy, because maybe some time, in two hours' I will see that I have water to drink."
+
+Britain and other coalition countries are maintaining pressure on the Kurds to keep the dispossessed of IS locked up. But after the misery the extremists brought here, the Kurds want them gone.
+
+At night more women arrived. Some of their children cried, but others stood silent and still, numb to everything around them. When they were asked a question, in the glare of television camera lights, they turned their dust-covered faces down to the ground and said nothing.
+
+A group that showed almost no mercy, now pleads for it.
+
+Media playback is unsupported on your device Media caption Exclusive pictures of final Islamic State group bastion
+
+An Iraqi woman, standing in the dark, with around 200 other women and children, said to me: "Do you not see the children here before you? Can you not feel their pain? The pain of old men and the women who got shredded by the bombs? The children who died in air strikes? You're human. We're human as well. Do you not feel my pain, brother?"
+
+At the edge of the throng, there is a medical station, run by a charity, the Free Burma Rangers. Paul Brady, a Californian, is one of their medics. He says the injuries have changed as more people have arrived from IS.
+
+"About 10 days ago we saw quite a few with what looked like bullet wounds," he told me.
+
+"They said they were shot because they were escaping. But now we haven't been seeing as many of those. It feels like most of these injuries are a little older, mostly from air strikes and mortars.
+
+"You walk around this triage spot and it smells really bad because these wounds have been festering for a long time," he said.
+
+The flow of people will eventually dry up, and then the final battle for Baghuz is expected. Those we spoke to in the desert said there were still thousands of fighters still inside.
+
+Image caption One injured fighter told us he got out because "there's no Islamic State left"
+
+Hamza was injured five weeks ago when he stepped on a landmine, but he says his broken leg is much better now. As I'm about to leave, he looks up at me, his smile finally disappearing from his face and he asks, "What will happen to me?"
+
+There's no clear answer. And I couldn't tell him that Iraq may not take him back. He would probably be taken to al-Hawl camp like everyone else.
+
+I left him something to drink, some chocolate and bananas, in the care of the medics and the Kurdish forces.
+
+When I returned to the desert the next day, he was gone, his place on the floor taken by more sick and injured from the last of the so-called caliphate.
+*****
+https://www.nytimes.com/2019/02/14/nyregion/newyorktoday/ny-news-police-friendly-fire.html
+N.Y. Today: A ‘Friendly Fire’ Tragedy
+Last night, the authorities were still trying to piece together exactly what happened.
+
+Police Commissioner James P. O’Neill called the incident an “absolutely tragic case of friendly fire.” Chief of Department Terence A. Monahan said, “This is the worst thing that we go through as a department.”
+
+New York City police officers are rarely killed by friendly fire — the last such incident occurred in 2009. These deaths are rare, in part, because of the extensive training the police undergo, retired police officials said.
+
+“The paradox of policing is that you’re always preparing for this, but you’re never ready for it,” said Eugene O’Donnell, a retired New York police officer who teaches at John Jay College of Criminal Justice in Manhattan.
+
+[Read our latest story about the shooting.]
+
+Joseph L. Giacalone, a retired New York police sergeant, recalled stumbling upon a robbery in the Bronx in 1994. Men with machine guns fired on him and his partner, he said.
+
+“Your instinct to stay alive takes over,” Mr. Giacalone said, adding that “even through all that is going on, you’re thinking about the person you’re with, because you want to make sure he or she comes out of this O.K. also.”
+*****
+http://techcrunch.com/2019/02/21/jd-com-drones-rakuten/
+JD.com’s drones take flight to Japan in partnership with Rakuten
+JD.com’s drones take flight to Japan in partnership with Rakuten
+
+Chinese e-commerce company JD.com is taking its drone delivery system to Japan.
+
+Rakuten, the Japanese e-commerce giant, just announced a partnership with JD that will see its drones and unmanned vehicles become a part of Rakuten’s own unmanned delivery service efforts.
+
+JD has been operating drones in its native China for a number of years, and it has wider expansion plans, having recently gained a regional-level operating license. Its other human-less tech includes self-operating trucks, automated warehouses and unmanned stores, and it recently picked Indonesia for its first overseas drone pilot.
+
+Rakuten has been offering drone delivery in Japan since 2016 and unmanned vehicle trials since 2018. It said that working with JD — which claims to have racked up 400,000 minutes of delivery flight time — will “accelerate the development and commercialization” of its human-free last-mile delivery efforts.
+*****
+https://www.nytimes.com/2019/03/10/world/africa/ethiopian-airlines-plane-crash.html
+Ethiopian Airlines Crash Kills at Least 150; 2nd Brand-New Boeing to Go Down in Months
+ADDIS ABABA, Ethiopia — A jetliner with passengers from at least 35 countries crashed Sunday shortly after leaving Ethiopia’s capital, killing all 157 people on board and renewing concerns about the new model of aircraft involved in the accident, the popular Boeing 737 Max 8.
+
+After taking off from Addis Ababa in good weather and with clear visibility, Ethiopian Airlines Flight 302, bound for Nairobi, Kenya, struggled to ascend at a stable speed, according to flight data published by FlightRadar24. The pilot sent out a distress call and was cleared to return to the airport, Bole International, the airline’s chief executive told reporters.
+
+But the plane — the same Boeing model that went down in Indonesia in October, killing all 189 people on board — lost contact with air traffic controllers six minutes after takeoff. It then plummeted to the ground near Bishoftu, a town southeast of the capital.
+
+“At this stage, we cannot rule out anything,” said Tewolde GebreMariam, the chief executive of Ethiopian Airlines, which has a solid reputation for safety among aviation experts and is in the midst of a major expansion as part of its effort to make air travel easier across Africa.
+
+Images from the vast, smoky crater at the crash site revealed a grim tableau. Workers loaded black body bags into a truck, while plane fragments and various items from the flight — cigarettes, shoes, napkins with the Ethiopian Airlines logo — were strewn across the field.
+*****
+http://techcrunch.com/2019/02/19/watch-the-historic-first-private-mission-to-the-moon-launch-thursday-night/
+Historic first private mission to the Moon launches Thursday night
+For the first time later this week, a privately developed moon lander will launch aboard a privately built rocket, organized by a private launch coordinator. It’s an historic moment in space and the Israeli mission stands to make history again if it touches down on the Moon’s surface as planned on April 11.
+
+The Beresheet (“Genesis”) program was originally conceived as an entry into the ambitious but ultimately unsuccessful Google Lunar Xprize in 2010, which challenged people to accomplish a lunar landing, with $30 million in prizes as the incentive. The prize closed last year with no winner, but as these Xprize competitions aim to do, it had already spurred great interest and investment in a private moon mission.
+
+SpaceIL and Israel Aerospace Industries worked together on the mission, which will bring cameras, a magnetometer and a capsule filled with items from the country to, hopefully, a safe rest on the lunar surface.
+
+The launch plan as of now (these things do change with weather, technical delays and so on) is for takeoff at 5:45 Pacific time on Thursday — 8:45 PM in Cape Canaveral — aboard a SpaceX Falcon 9 rocket. A live stream should be available shortly before, which I’ll add here later or in a new post.
+
+Thirty minutes after takeoff the payload will detach and make contact with mission control, then begin the process of closing the distance to the Moon, during which time it will circle the Earth six times.
+
+Russia, China and of course the U.S. are the only ones ever to successfully land on the Moon; China’s Chang’e 4 lander was the first to soft-land (as opposed to impact) the “dark” (though really only far — it’s often light) side and is currently functional.
+
+But although there has been one successful private lunar flyby mission (the Manfred Memorial probe) no one but a major country has ever touched down. If Beresheet is a success it would be both the first Israeli moon mission and the first private mission to do so. It would also be the first lunar landing to be accomplished with a privately built rocket, and the lightest spacecraft on the Moon and, at around $100 million in costs, the cheapest as well.
+
+Landing on the Moon is, of course, terribly difficult. Just as geosynchronous orbit is far more difficult than low Earth orbit, a lunar insertion orbit is even harder, a stable such orbit even harder and accomplishing a controlled landing on target even harder than that. The only thing more difficult would be to take off again and return to Earth, as Apollo 11 did in 1969 and other missions several times after. Kind of amazing when you think about it.
+
+Seattle’s Spaceflight coordinated the launch, and technically Beresheet is the secondary payload; the primary is the Air Force Research Labs’ S5 experimental satellite, which the launch vehicle will take to geosynchronous orbit after the lunar module detaches.
+
+Although Beresheet may very well be the first, it will likely be the first of many: other contenders in the Lunar Xprize, as well as companies funded or partnering with NASA and other space agencies, will soon be making their own attempts at making tracks in the regolith.
+*****
+http://techcrunch.com/2019/02/27/star-trek-discovery-renewed-season-3/
+Star Trek: Discovery will return for a third season
+We’ve still barely caught up with the Red Angel, whatever it is, but CBS just confirmed that Star Trek: Discovery will be coming back for a third season. Discovery will also add Michelle Paradise as a co-showrunner alongside Alex Kurtzman, making her the fifth showrunner to come aboard the Discovery in its relatively short tenure exploring the known universe.
+
+“The massive success of Star Trek: Discovery’s second season launch exceeded our expectations in both driving subscriber growth and generating a phenomenal response from Star Trek fans,” CBS All Access executive vice president Julie McNamara said. “With Alex Kurtzman and Michelle Paradise at the helm, we look forward to continuing Star Trek: Discovery’s journey, growing the Star Trek franchise on CBS All Access and bringing fans new Star Trek stories for many years to come.”
+
+We’re about halfway through Discovery’s second season, which is set to have 14 episodes. The show’s first season consisted of a handful of separate-ish story arcs, from Michael Burnham’s redemption to the Tardigrade drama and then on to the deeper, darker mad science and Terran Empire stuff. So far, Season 2 has drifted between a more episodic formula and the mystery of Spock, in what’s likely a season-spanning story arc, though honestly we’ll be happy with whatever happens as long as we don’t ever have to hear about the mycelial network again… ever.
+
+While Discovery Season 2’s standalone adventure episodes are fluffier fun, the show’s willingness to plunge into the dark side of Starfleet keeps us coming back. That aspect of the show is apparently compelling enough that it’s even inspired a Discovery spin-off centered around Starfleet’s morally ambiguous black ops team Section 31, starring Discovery’s excellent Michelle Yeoh.
+
+In the U.S., the new season of Star Trek: Discovery will continue its exclusive run on CBS All Access. That means fans of the latest iteration of the well-loved series will have to keep ponying up for yet another streaming service if they want to keep up with Burnham, Saru and Tilly as they navigate the vastness of space with only an intergalactic moral compass and the mycelial network (ugh) to guide them.
+*****
+http://time.com/5545529/air-india-pakistan-nationalism/
+Crew Aboard Air India Planes Ordered to 'Hail Motherland'
+India’s flag carrier has instructed crew to end all in-flight announcements with the phrase “Jai Hind,” which translates to “hail the motherland,” causing some confused amusement among social media users.
+
+The BBC reports that deeply indebted Air India issued a memorandum to implement the new policy with “immediate effect,” requiring crew to recite the patriotic phrase “at the end of every announcement after a slight pause and with much fervor.”
+
+The policy was announced at a time of particularly high patriotism in India, as tensions simmer with Pakistan in the disputed Kashmir region.
+
+The two nuclear-armed neighbors have been locked in a standoff since a Feb. 14 suicide bombing by Pakistan-based militants killed 41 Indian troops. The following days were marked by deadly gunfire and tit-for-tat airstrikes, forcing civilians to flee border towns.
+
+Last week, Pakistan’s military claimed to have shot down two Indian warplanes and kept one Indian pilot in custody. He was released on March 1 in what Pakistan’s Prime Minister Imran Khan called a “gesture of peace.”
+
+Air India’s new policy was viewed by some as an attempt to seize nationalist sentiment to reinvigorate business. The BBC reports that the airline hasn’t turned a profit since 2007, and the company owes roughly 7.3 billion in debt, according to the Times of India.
+
+Many took to social media to poke fun at the cash-strapped carrier, tweeting imaginary in-flight announcements ending with the patriotic flair:
+
+Write to Hillary Leung at hillary.leung@time.com.
+*****
+http://time.com/5537577/amazon-flight-crash-bodies/
+Rescuers Still Searching for the Last Crew Member of Doomed Amazon Cargo Flight
+(ANAHUAC, Texas) — Authorities scoured the shallow waters of a southeast Texas bay Monday for clues about what led to the sudden crash of a Boeing 767 cargo plane carrying Amazon packages, and for the body of one of the three people aboard.
+
+A north wind has aided searchers by exposing more of the three-quarter-mile debris field left Saturday when Houston-bound Flight 3591, which Atlas was operating for Amazon, disintegrated on impact with Trinity Bay, about 35 miles (55 kilometers) east of the city, an area sheriff said Sunday night. But the National Transportation Safety Board said on Twitter that it would not be releasing more information on the search Monday.
+
+White chunks of fuselage could still be seen Monday sticking out of the bay’s long grass as airboats skimmed the low water around the crash site.
+
+None of the three people on the jumbo jet survived the crash, according to authorities and the plane’s owner, Atlas Air. Emergency workers recovered a body on Saturday and another on Sunday from the costal bay. They were sent to a medical examiner’s office for autopsies.
+
+The Brief Newsletter Sign up to receive the top stories you need to know right now. View Sample Sign Up Now
+
+Sheriff’s deputies and investigators from the FBI and NTSB are searching for the remaining body and the plane’s black box, which records flight data and voices in the cockpit. Crews are searching the area with boats and helicopters, but the muddy landscape has made the process “painstaking,” NTSB Chairman Robert Sumwal said Sunday.
+
+The only person aboard the flight from Miami to be officially identified was a pilot for another airline who had been riding in a passenger seat on the cargo plane.
+
+Mesa Airlines Capt. Sean Archuleta had been getting a lift back to his home in the Houston area, his friend told the Houston Chronicle. The 36-year-old was a new father and weeks away from starting his “dream” job flying for United Airlines, Don Dalton, Archuleta’s roommate, told the paper.
+
+Chambers County Sheriff Brian Hawthorne confirmed Monday the identities of Archuleta and First Officer Conrad Aska, the 44-year-old co-pilot whose body was found Saturday.
+
+Archuleta’s wife lives in Colombia and was “devastated” by the news of his death, Dalton said.
+
+Atlas Air said in a Sunday statement that it has established a program to support the families of the dead and that it has a team, including CEO Bill Flynn, at the crash site to assist investigators.
+
+Before Saturday, the most recent crash involving a large cargo plane in the United States was in 2016, according to a Federal Aviation Administration spokesman.
+
+The non-fatal incident began when the landing gear of a FedEx flight collapsed soon after it touched down on a runway at the Fort Lauderdale-Hollywood International Airport. The left wing of the McDonnell Douglas MD-10-10F caught fire and the plane was badly damaged in the crash, but the two crew members were able to evacuate, the spokesman said.
+
+Correction, Feb. 26
+
+The original version of this story misstated the days on which the first two bodies were recovered from the cargo flight. One was recovered on Saturday and one on Sunday, they were not both recovered on Sunday.
+
+Contact us at editors@time.com.
+*****
+http://techcrunch.com/2019/02/28/ceo-richard-plepler-is-leaving-hbo/
+CEO Richard Plepler is leaving HBO
+Richard Plepler, who’s been at HBO since 1992 and served as CEO since 2013, is leaving the network.
+
+In a staff memo, Plepler didn’t offer specific reasons for his departure but said, “Hard as it is to think about leaving the company I love, and the people I love in it, it is the right time for me to do so.”
+
+The news comes less than a year after AT&T acquired HBO’s corporate parent Time Warner.
+
+Shortly after the deal closed, WarnerMedia CEO John Stankey held a town hall meeting where he said HBO would need to grow its subscriber base and the amount of time those subscribers spend watching HBO content (a recording of the meeting was obtained by The New York Times). In the memo, Plepler said he’s told Stankey — “who has been nothing but gracious since we spoke” — that he “would work closely with him to assure a seamless and organic transition.”
+
+This also comes as WarnerMedia plans to launch a streaming service of its own. While Plepler was CEO, Netflix has reshaped the TV landscape (and supplanted HBO as the leader in Emmy nominations), but it was also under his leadership that HBO launched its own direct-to-consumer subscription service, HBO Now, setting the stage for seemingly every network and media company launching a streaming service of its own.
+
+In fact, the one time I interviewed Plepler was in 2013, at a red carpet event for “Game of Thrones” (I’m still not sure what I was doing there). When asked to speculate about what the future would hold, he replied, “Maybe even a broadband-only HBO delivery system. Who knows? We’ll see where that goes down the road.”
+*****
+http://techcrunch.com/2019/03/08/spacex-makes-history-by-completing-first-private-crew-capsule-mission/
+SpaceX makes history by completing first private crew capsule mission
+SpaceX’s Crew Dragon capsule has safely splashed down in the Atlantic, making it the first privately built crew-capable spacecraft ever to complete a mission to the International Space Station. It’s one of several firsts SpaceX plans this year, but Boeing is hot on its heels with a crew demonstrator of its own — and of course the real test is doing the same thing with astronauts aboard.
+
+This mission, Demo-1, had SpaceX showing that its Crew Dragon capsule, an evolution of the cargo-bearing Dragon that has made numerous ISS deliveries, was complete and ready to take on its eponymous crew.
+
+It took off early in the morning of March 2 (still March 1 on the West coast), circled the Earth 18 times, and eventually came to a stop (relatively speaking, of course) adjacent to the ISS, after which it approached and docked with the new International Docking Adapter. The 400 pounds of supplies were emptied, but the “anthropomorphic test device” known as Ripley — basically a space crash test dummy — stayed in her seat on board.
+
+(It’s also worth noting that the Falcon 9 first stage that took the capsule to the edge of the atmosphere landed autonomously on a drone ship.)
+
+Five days later — very early this morning — the craft disengaged from the ISS and began the process of deorbiting. It landed on schedule at about 8:45 in the morning Eastern time.
+
+It’s a huge validation of NASA’s Commercial Crew Program, and of course a triumph for SpaceX, which not only made and launched a functioning crew spacecraft, but did so before its rival Boeing. That said, it isn’t winner take all — the two spacecraft could very well exist in healthy competition as crewed missions to space become more and more common.
+
+Expect to see a report on the mission soon after SpaceX and NASA have had time to debrief and examine the craft (and Ripley).
+*****
+https://www.businessinsider.com/american-airlines-singapore-airlines-seats-have-cameras-why-2019-2
+People are finding hidden cameras on some American Airlines and Singapore Airlines planes. Here's what that's about
+In-flight entertainment (IFE) systems are a ubiquitous part of air travel these days — especially on long, transoceanic flights. For the most part, they are innocuous screens on the back of seats designed to entertain us while we jet across the sky.
+
+Recently, however, a few eagle-eyed travelers have noticed that while we watch the screens, they could be watching us.
+
+This week, one passenger aboard a Singapore Airlines flight noticed a camera built into his IFE screen. Another passenger noticed a similar camera aboard his American Airlines flight.
+
+Is someone spying on us? According to the airlines, no.
+
+In a statement to Business Insider, American Airlines said:
+
+"Cameras are a standard feature on many in-flight entertainment systems used by multiple airlines. Manufacturers of those systems have included cameras for possible future uses such as seat-to-seat video conferencing. While these cameras are present on some American Airlines in-flight entertainment systems as delivered from the manufacturer, they have never been activated and American is not considering using them."
+
+Singapore Airlines echoed those sentiments.
+
+"Some of our newer IFE systems provided by the original equipment manufacturers do have a camera provisioned and embedded in the hardware," an airline spokesman told Business Insider. "These cameras have been intended by the manufacturers for future developments."
+
+"These cameras are permanently disabled on our aircraft and cannot be activated on board," he added. "We have no plans to enable or develop any features using the cameras."
+
+Singapore Airlines economy class. Singapore Airlines Airlines don't make their own IFE systems. They may be able to tailor the content and presentation of the system, but the hardware is purchased from suppliers. In the case of American Airlines, the IFE system in question comes from Panasonic while the Singapore Airlines systems come from Panasonic and Thales.
+
+A Thales spokesman told Business Insider that the cameras in their systems are disabled and cannot be activated in-flight.
+
+In an emailed statement, Panasonic said:
+
+"Panasonic Avionics Corporation (Panasonic Avionics) takes airline passenger privacy very seriously. While the company does include cameras as part of its inflight entertainment (IFE) systems, at no time have these cameras been activated or used in any manner by either Panasonic Avionics or its customers. The cameras have simply been included to support potential future applications like seat-to-seat video conferencing.
+
+"Panasonic Avionics will never activate any feature or functionality within an IFE system without explicit direction from an airline customer. Prior to the use of any camera on a Panasonic Avionics' system that would affect passenger privacy, Panasonic Avionics would work closely with its airline customer to educate passengers about how the system works and to certify compliance with all appropriate privacy laws and regulations, such as GDPR."
+
+Read more: I flew on the world's longest flight in premium economy — here's what the 18-hour voyage was like.
+
+The camera-equipped IFE systems can be found in the premium economy cabins of select American Airlines Boeing 777-200s, 777-300ERs, and Airbus A330-200s.
+
+The cameras are a bit more pervasive in Singapore's fleet. They can be found in the business, premium economy, and economy cabins of the airline's Airbus A350-900s, Airbus A380s, Boeing 777-300ERs, and Boeing 787-10s.
+
+Thales and Panasonic Avionics are two of the most prominent original equipment manufacturers in the airline industry. This means these systems may be on planes beyond just Singapore and American Airlines.
+*****
+https://www.nytimes.com/2019/02/24/us/water-slide-death-charges.html
+Judge Dismisses Charges in Boy’s Decapitation on 170-Foot-Tall Water Slide
+After a boy died while riding a nearly 170-foot-tall waterslide in Kansas in 2016, state attorneys brought criminal charges against operators and associates of the water park, accusing them of recklessness.
+
+But on Friday a judge dismissed the charges and said prosecutors had submitted “improper evidence.”
+
+In his ruling, the judge, Robert Burns of Wyandotte County, wrote that there was “illegal evidence that should not have been presented to the grand jury” and called into question videos and expert testimony presented to jurors.
+
+The case focused on a waterslide at Schlitterbahn Waterpark in Kansas City, Kan. The slide, known as Verrückt, which is German for “crazy” or “insane,” opened in 2014 and was marketed as the tallest waterslide in the world. Riders climbed 264 steps to the top before sitting in a raft that plummeted and then soared over a crest on its way to a runoff pool at the bottom.
+
+The rafts sometimes lifted from the chute momentarily, and the slide was covered with netting, supported by metal poles, so riders would not fall off. But riders sometimes struck the netting or the poles, and some injuries had already occurred when, in August 2016, Caleb Schwab, 10, got into a raft with two other riders.
+*****
+https://www.nytimes.com/2019/03/09/nyregion/jfk-turkish-airlines-flight-turbulence.html
+30 People Treated at J.F.K. After Flight Hits Severe Turbulence
+For about nine hours, Sead Nikaj’s flight back home to New York from Istanbul was smooth.
+
+But as the plane was crossing over Maine on Saturday, it hit a patch of severe turbulence, he said. Mr. Nikaj said he watched the woman next to him fly out of her seat. Oxygen masks dropped from the ceiling. People banged their heads, screamed and prayed.
+
+For about 10 to 15 minutes — but what felt like an eternity to Mr. Nikaj — he thought he was going to die.
+
+“I said, ‘God help me,’” he said.
+
+The Turkish Airlines plane landed safely at Kennedy Airport, but at least 30 people were taken to hospitals with non-life-threatening injuries because of the turbulence, the authorities said.
+
+One flight attendant broke her leg, said Steve Coleman, a spokesman for the Port Authority of New York and New Jersey. The rest of the injuries were minor, and included “bumps, bruises and cuts,” Mr. Coleman said.
+*****
+https://www.bbc.co.uk/news/world-asia-47358142
+Bangladesh plane 'hijacker' killed by police was carrying toy gun
+Media playback is unsupported on your device Media caption Bangladesh tightens airport security in capital Dhaka
+
+A passenger who took a crew member hostage and threatened to storm the cockpit on a flight from Dhaka in Bangladesh was carrying a toy gun.
+
+The 25-year-old man was shot dead by police after an emergency landing.
+
+All 148 passengers and crew on board Birman Airlines flight BG147 disembarked safely after the landing, in the city of Chittagong.
+
+Officials later said the man was "psychologically imbalanced" and had wanted to talk to the prime minister.
+
+In an operation that lasted about 10 minutes, Bangladeshi special forces stormed the plane and shot the suspected hijacker, who has been named by local law enforcement as aspiring actor Mohammad Palash Ahmed.
+
+It was feared that he was carrying explosives on the Dubai-bound flight, and some passengers said they saw him with a firearm.
+
+But Chittagong police commissioner Kusum Dewan said in a statement on Monday that the suspect was carrying a toy pistol and had no explosives on him.
+
+Image copyright AFP Image caption All passengers and crew on the Dubai-bound flight were safety brought off the plane
+
+Wing Commander Sarwar-e-Zaman, the airport manager, told the AFP news agency that Ahmed had wanted to speak to the prime minister of Bangladesh, who was visiting the coastal city of Chittagong, because of problems in his marriage.
+
+"The reason he gave for the hijack was that he had troubles with his wife and he wanted to talk to the prime minister, Sheikh Hasina," Mr Zaman said.
+
+Investigators are now trying to establish how Ahmed managed to get a toy gun through airport security and onto the plane.
+
+Security measures have been increased at airports in Bangladesh, including at Dhaka's Hazrat Shahjalal International Airport, in the wake of the incident.
+
+Image copyright EPA Image caption Bangladeshi security forces stand guard at Shah Amanat International airport in Chittagong
+
+Army officials said the man was initially wounded in the shooting and later died of his injuries.
+
+"We tried to arrest him or get him to surrender but he refused and then we shot him," Maj Gen Motiur Rahman told reporters soon after the incident. "He is a Bangladeshi. We found a pistol from him and nothing else."
+
+Staff on board the flight raised concerns after the man was said to have been acting suspiciously and indicating intent to hijack the plane, Reuters news agency reported, citing airline officials.
+
+The aircraft was immediately cordoned off when it landed at the Shah Amanat International airport in Chittagong, as officers attempted to talk to the suspect.
+
+Images posted on social media showed crowds of people on the tarmac at the airport with the Boeing 737-800 aircraft visible in the background.
+*****
+https://www.bbc.co.uk/news/world-asia-47350138
+Bangladesh plane 'hijacker' shot dead by special forces
+Image copyright EPA Image caption Security forces cordoned off the plane when it landed in Chittagong
+
+A passenger suspected of attempting to hijack a flight from Bangladesh to Dubai has been shot dead by Bangladeshi special forces, local media report.
+
+The suspect, who reportedly warned he had a pistol, was killed when security forces stormed the plane after it made an emergency landing in Chittagong.
+
+All 148 passengers and crew on board the Biman Bangladesh Airlines Flight BG147 disembarked safely.
+
+It is not yet clear why the suspect may have attempted to hijack the plane.
+
+Army officials said the man, believed to be aged 25, was initially wounded when shots were fired on Sunday but died shortly afterwards, AFP news agency reports.
+
+"We tried to arrest him or get him to surrender but he refused and then we shot him," Maj Gen Motiur Rahman told reporters.
+
+"He is a Bangladeshi. We found a pistol from him and nothing else," he added.
+
+Image copyright EPA Image caption Bangladeshi security forces stand guard at Shah Amanat International airport in Chittagong
+
+Earlier reports suggested that the suspect may have been mentally ill and had demanded to speak with Bangladeshi Prime Minister Sheikh Hasina, who was visiting the coastal city of Chittagong.
+
+Staff on board the flight raised concerns after the man was said to have been acting suspiciously and indicating intent to hijack the plane, Reuters news agency reports, quoting airline officials.
+
+The aircraft was immediately cordoned off when it landed at the Shah Amanat International airport in Chittagong as officers attempted to talk to the suspect.
+
+Images posted on social media showed crowds of people on the tarmac at the airport with the Boeing 737-800 aircraft visible in the background.
+
+Skip Twitter post by @sidhant Bangladesh: Tense situation as police surround a plane at Chattogram airport after it was reported to be hijacked. The Dubai bound Biman plane is identified as flight BG147. pic.twitter.com/BtessHtKyZ — Sidhant Sibal (@sidhant) February 24, 2019 Report
+
+The flight was originally scheduled to arrive in Dubai on Sunday evening after departing from Dhaka.
+=======
+https://www.nytimes.com/2019/03/13/world/ethiopian-plane-crash-news.html
+A Simple Guide to the Aftermath of the Ethiopian Airlines Crash
+The deadly crash of a Boeing 737 Max 8 operated by Ethiopian Airlines has led to a virtual worldwide grounding of the plane and raised urgent questions about why a brand-new aircraft would go down minutes after takeoff.
+
+President Trump said on Wednesday that the United States, one of the last holdouts in barring flights of the popular jet, would now do so “until further notice.” American and Canadian regulators said new satellite data showed similarities between the Ethiopian crash and another deadly one months earlier by a Max 8 operated by Lion Air in Indonesia, raising further questions about the safety of the aircraft.
+
+The investigation into the Ethiopian crash, which killed 157 people from 35 countries, is fast-moving, and far-reaching. There are still more questions than answers, but some possible explanations are emerging.
+
+Here’s a guide to our coverage.
+
+What happened before the plane went down?
+
+• The captain of the Ethiopian plane reported “flight control problems” to air traffic controllers minutes before the plane crashed near Addis Ababa, the airline said.
+*****
+https://www.nytimes.com/2019/03/11/business/boeing-stock-737-max-8-crash.html
+Boeing Shares Drop After Ethiopian Airlines Crash
+The questions raised by the latest crash go to the heart of Boeing’s business. The single-aisle 737 Max, the American plane maker’s challenger to Airbus’s A320 jet, was Boeing’s best-selling plane ever. It first started flying in 2017 and by this January, the company had delivered more than 350 of the planes, which sell for $120 million apiece.
+
+About 5,000 more are on order.
+
+It was unclear how the groundings of the 737 Max might affect Boeing’s bottom line. The cost to the company would be significant if regulators in the United States decided to follow suit and take the fleet out of service temporarily.
+
+Such occurrences are rare.
+
+If the 737 Max is taken out of service, Boeing might have to compensate airlines for delayed deliveries. The company might also have to invest in redesigning or updating the aircraft. And Boeing could face lawsuits filed by the families of those killed in the Ethiopian Airline crash.
+
+Carter Copeland, an analyst at Melius Research, estimated that Boeing could face nearly $1 billion in costs if regulators grounded its 737 Max fleet for three months. He said his analysis was based partly on the expenses incurred by Boeing when the F. A.A. ordered the company’s 787s to stop flying temporarily in 2013 because of a problem with the plane’s battery system.
+
+The drop in Boeing’s stock on Monday wiped almost $13 billion off the company’s market value.
+
+
+
+“That speaks to the fear,” Mr. Copeland said. “Right now there is a very difficult to quantify risk that people need a substantial discount to stomach.”
+
+The decision by China’s Civil Aviation Administration to ground the planes hurts Boeing in a region where the company has been able to sell a large number of them. Chinese airlines have ordered at least 104 737 Max planes, and have taken delivery of at least 70.
+*****
+https://www.nytimes.com/2019/03/13/world/ethiopian-airlines-boeing-737-max-8-crash.html
+A Simple Guide to the Aftermath of the Ethiopian Airlines Crash
+The deadly crash of a Boeing 737 Max 8 operated by Ethiopian Airlines has led to a virtual worldwide grounding of the plane and raised urgent questions about why a brand-new aircraft would go down minutes after takeoff.
+
+President Trump said on Wednesday that the United States, one of the last holdouts in barring flights of the popular jet, would now do so “until further notice.” American and Canadian regulators said new satellite data showed similarities between the Ethiopian crash and another deadly one months earlier by a Max 8 operated by Lion Air in Indonesia, raising further questions about the safety of the aircraft.
+
+The investigation into the Ethiopian crash, which killed 157 people from 35 countries, is fast-moving, and far-reaching. There are still more questions than answers, but some possible explanations are emerging.
+
+Here’s a guide to our coverage.
+
+What happened before the plane went down?
+
+• The captain of the Ethiopian plane reported “flight control problems” to air traffic controllers minutes before the plane crashed near Addis Ababa, the airline said.
+*****
+https://www.nytimes.com/2019/03/11/business/ethiopian-airline-crash.html
+Boeing Scrambles to Contain Fallout From Deadly Ethiopia Crash
+The uncertainty over the cause of the latest crash has put Boeing on the defensive. The 737 Max is the company’s best-selling jet ever, and it is expected to be a major driver of profits in the future. Around 5,000 of the planes are on order, with a list price of $120 million for the Max 8 version.
+
+Shares of the company fell 5 percent on Monday, as pressure mounted from various corners.
+
+The Association of Flight Attendants sent a letter to the F.A.A. on Monday calling for a review of the 737 Max. “We need help from the regulators when the entire world is looking at two catastrophic incidents that happened on the same aircraft type within five months of each other,” said Sara Nelson, the president of the flight attendants’ union. “Our system is so safe that these things don’t happen today. That is why people are questioning what is going on here.”
+
+Pilots also raised questions about the safety of the plane. “We’re very concerned about why two brand-new aircraft suddenly pitched over and nosed into the ground,” said Rory Kay, a former top safety official at the world’s largest pilot union and a senior pilot and pilot trainer at a major United States airline. “This is not the dawn of aviation. We’ve evolved, planes have evolved.”
+
+Dennis Tajer, a spokesman for the American Airlines pilot union and a 737 pilot, said that the Lion Air crash hurt the reputation of the 737 Max in the eyes of some of his members and that the Ethiopian accident had prompted new questions from them. “I think there needs to be further review into the certification process” for the aircraft, Mr. Tajer said. “Everybody should be looking at this.”
+
+In Washington, two senators, Dianne Feinstein of California and Richard Blumenthal of Connecticut, went a step further, calling on the F.A.A. to ground all Boeing 737 Max 8s until the investigation into the Ethiopia crash was complete.
+
+Some passengers tried to rebook their flights to avoid a 737 Max 8. Carriers that hadn’t grounded the plane sought to reassure customers, providing information about the jet’s safety.
+*****
+https://www.bbc.co.uk/news/business-47519929
+Boeing: Airlines ground 737 Max 8 jets after latest crash
+Image copyright Getty Images
+
+Several airlines have grounded Boeing 737 Max 8 jets following a deadly Ethiopian Airlines crash.
+
+The flight crashed minutes after takeoff on Sunday, killing all 157 people on board.
+
+It was the second disaster in five months involving a Boeing 737 Max 8.
+
+Aviation regulators in China and Indonesia have suspended flights using that model. Ethiopian Airlines, Cayman Airways and Comair, have also grounded their 737 Max 8 aircraft.
+
+Boeing shares fell 13% in early trading on Wall Street, but then recovered some of those losses.
+
+While experts warn it is too early to say what caused the Ethiopian Airlines disaster, it comes after the same model crashed in a flight operated by Lion Air in October.
+
+The plane lost altitude soon after takeoff, killing 189 people on board.
+
+"Given that two accidents both involved newly delivered Boeing 737 Max 8 planes and happened during take-off phase, they have some degree of similarity," the Civil Aviation Administration of China said in a statement.
+
+The Chinese regulator ordered local carriers to ground all 737 Max 8 flights by 18:00 local time (10:00 GMT).
+
+Air China, China Eastern Airlines, Kunming Airlines, and China Southern Airlines are among the carriers affected. More than 90 Boeing 737 Max 8 models are in use in mainland China.
+
+The Indonesian Transport Ministry said inspections would begin on 12 March of one Garuda Indonesia plane and 10 operated by Lion Air. Planes would be grounded until cleared by safety regulator.
+
+Shares in French aerospace group Safran, which makes the engines for the 737, fell on Monday.
+
+The aircraft is relatively new to the skies, having only been in commercial use since 2017.
+
+Boeing said it was "deeply saddened" by the crash and is sending a team to provide technical assistance to the investigation.
+
+The investigation will be led by Ethiopian authorities co-ordinating with teams of experts from Boeing and the US National Transportation Safety Board.
+
+The Indian government said it was discussing the situation with local regulators. Jet Airways and SpiceJet - neither of which made any comment - both use the aircraft.
+
+Comair, which has the franchise for British Airways in South Africa, said it was removing its 737 Max from its schedule while it "consults with other operators, Boeing and technical experts".
+
+Which airlines use the 737 Max 8?
+
+According to Boeing's website, 16 airlines have taken delivery of the 737 Max 8.
+
+TUI Group has 15 in its fleet and said it is in close contact with the manufacturer, but has no plans to take them out of service. It is the only airline to have any such planes registered with the UK's Civil Aviation Authority.
+
+A spokesperson for Flydubai told Reuters the carrier is "monitoring the situation".
+
+Norwegian Airlines, which has 18 in its fleet largely flying between Ireland the US, is continuing to use the planes.
+
+Its director of flight operations said the airline will follow any recommendations from Boeing and aviation authorities. It has three - including one from London Gatwick to Helsinki - in use today.
+
+Singapore's SilkAir said it was in contact with Boeing and all its flights using 737 Max 8 aircraft - of which it has six - are operating as normal, while Air Italy is also operating its planes as normal.
+
+Several North American airlines also operate the aircraft and have said they are monitoring the investigation.
+
+Southwest Airlines flies 34 of the aircraft and said it had been in contact with Boeing and was operating as normal.
+
+American Airlines and Air Canada each have 24 in their fleet.
+*****
+https://www.nytimes.com/2019/03/13/opinion/boeing-737.html
+Opinion | Ground the Boeing Max 8. There Are Too Many Concerns.
+The Federal Aviation Administration should do likewise; this jet hasn’t been proved safe to fly. Instead, the agency is allowing Southwest, American Airlines and United to continue to operate the 74 737 Max jets now in service.
+
+The agency has noted corrective actions taken by Boeing since the Lion Air crash. The company is developing a software patch for the jet’s anti-stall system; it is also revising the operating manual to tell pilots how to disengage the autopilot and fly the plane themselves if the system goes haywire. But why should the F.A.A. continue to permit a system prone to going haywire aboard an aircraft?
+
+The airlines had a cozy relationship with the F.A.A. for years. Under the Trump administration, regulators certainly haven’t become tougher. And during the government shutdown, the F.A.A. stopped working on the 737 Max issue for five weeks. There’s no one in charge, either. The job of F.A.A. administrator is one of the many crucial but unoccupied positions in this administration — although Mr. Trump proposed to put his personal pilot at the agency’s controls.
+
+On Tuesday, Mr. Trump tweeted that airliners today are too complex to fly, which would be news to airline pilots. That prompted a call from Boeing’s chief executive, Dennis Muilenburg. Boeing, long among the nation’s largest defense contractors, has always been close with Republican administrations, and the Boeing boss has renewed acquaintances. Although the conversation was not made public, it’s reasonable to assume that Mr. Muilenburg made the case that the 737 Max was both flyable and safe.
+*****
+https://www.nytimes.com/2019/03/12/world/africa/boeing-ethiopian-airlines-plane-crash.html
+E.U. Suspends Boeing 737 Max 8 Operations, but F.A.A. Stands Firm
+• Pressure escalated inside the United States for a grounding of the Boeing 737 Max model that has crashed twice in the past six months. But the Federal Aviation Administration reiterated its position that the plane is considered safe and that it has “no basis to order grounding the aircraft.”
+
+• The European Union suspended “all flight operations” of the Boeing 737 Max model in question. The action came as more than a half-dozen other countries grounded the plane, and was the most sweeping regulatory action taken so far in the two days since the crash of a Max 8 that killed 157 people on a flight from Addis Ababa, Ethiopia, to Nairobi, Kenya.
+
+• President Trump had a telephone conversation with the chief executive of Boeing, who made the case that the 737 Max 8 should not be grounded in the United States, according to two people briefed on the conversation.
+
+• Mr. Trump also said on Twitter that commercial airplanes had become overly technical, but said nothing about the Boeing Max.
+
+• At least 34 airlines have now grounded the Max 8, which means roughly two-thirds of the Max 8 planes in operation are now idled. The major outliers are Southwest and American in the United States, and Air Canada.
+
+• Boeing stands by the airworthiness of the plane, but said it planned to issue a software update and was working on changes to flight controls and training guidelines following the first crash, of a Lion Air flight in Indonesia last October.
+
+[Read more about the latest developments in the wake of the Ethiopian Airlines crash.]
+
+• Boeing’s stock price, which fell 5 percent on Monday, fell 6 percent on Tuesday.
+
+• Investigators from the United States and elsewhere are at the crash site of Ethiopian Airlines Flight 302. Much of the investigation will focus on the voice and data recorders recovered on Monday. The airline’s chief executive, interviewed by CNN, said the pilots had told air traffic control they were having “flight control problems.”
+*****
+https://www.nytimes.com/2019/03/11/travel/flying-boeing-737-max-8.html
+What Passengers Need to Know After the Boeing 737 Max 8 Crash
+Update: On Tuesday, Britain, Australia, Germany, Singapore, Malaysia and Oman banned all Boeing 737 Max 8 planes from their airspaces. Read more live coverage on the crash and its aftermath here.
+
+The Ethiopian Airlines plane crash that killed 157 people on Sunday has rattled travelers around the world. Just six months ago, the same model of airplane — a Boeing 737 Max 8, operated by Lion Air — crashed off Indonesia and killed all 189 onboard.
+
+While the cause of Sunday’s tragedy remains undetermined, and the investigation into the Lion Air accident is ongoing, several circumstances of these two crashes are similar.
+
+The 200-seat Boeing 737 Max 8 has been a popular plane since it came on the market in 2017, with more than 4,000 planes ordered within the first six months. The plane sold quickly based on features that passengers crave — a quieter cabin, more legroom — and bottom-line benefits to airlines, like fuel efficiencies. The plane’s entry into the market seemed like the rare win-win for both passengers and airlines. At the time of the Ethiopian Airlines crash, nearly 350 Boeing 737 Max 8s were in operation around the world, including in the United States, on routes across the country: Miami to Los Angeles, Houston to Denver, San Francisco to Portland.
+*****
+https://www.nytimes.com/2019/03/12/business/boeing-737-grounding-faa.html
+Two-Thirds of the 737 Max 8 Jets in the World Have Been Pulled From the Skies
+Southwest Airlines and American Airlines, the two carriers in the United States that use the 737 Max 8, also said they remained confident in the safety of the planes and planned to continue flying them. Both airlines have said they have analyzed data from their thousands of flights with the jets and found no reason to ground them.
+
+The Canadian transport minister, Marc Garneau, has indicated that Canada will not ground the plane until American regulators have determined the cause of the latest crash. But he also opened the possibility for a change in thinking.
+
+“I’ve canceled all my meetings and public events today in order to meet with my Civil Aviation Expert Panel,” he said on Twitter. “All evidence is being evaluated in real time and we’re considering all potential actions.”
+
+[Read our continuing coverage of developments related to Sunday’s crash.]
+
+One overarching concern among regulators around the world is whether the system suspected of playing a role in the Lion Air crash had contributed to the latest accident.
+
+Indonesian and American authorities have raised the possibility that a new system in the 737 Max — and pilots’ lack of familiarity with it — could have contributed to the Lion Air Flight 610 crash. The plane’s so-called maneuvering characteristics augmentation system, known as MCAS, was a new version that could automatically change the aircraft’s trajectory.
+
+The similarities, with both planes crashing minutes after erratic takeoffs, are driving authorities to order the groundings. Despite Boeing and American authorities standing behind the plane, regulators and carriers elsewhere are opting to ban the plane in the absence of clear information.
+*****
+https://www.reuters.com/article/us-ethiopia-airplane-russia-idUSKBN1QT2O9
+Russia’s S7 Airlines grounds Boeing 737 Max 8 planes
+FILE PHOTO: A Boeing 737 MAX 8 aircraft is parked at a Boeing production facility in Renton, Washington, U.S., March 11, 2019. REUTERS/David Ryder
+
+MOSCOW (Reuters) - Russian S7 Airlines said on Monday it would ground Boeing 737 Max 8 airlines starting from Wednesday following the crash of an Ethiopian Airlines plane.
+
+It said its fleet consists of 96 planes, including two Boeing 737 Max, the only such planes owned by Russian carriers.
+
+It said the decision would not affect its flight schedules.
+*****
+https://www.wired.com/story/boeing-737-max-8-ethiopia-crash-faa-software-fix-lion-air/
+Boeing Plans to Fix the 737 MAX Jet With a Software Update
+The investigation into the crash of an Ethiopian Airlines 737 MAX 8, which killed 157 people on Sunday, is still in its earliest stages, but already regulators around the world have grounded the Boeing jet. The American FAA issued its own grounding order today, noting that, based on the wreckage and satellite-based tracking of the jet’s route, it found similarities between this crash and that of the Lion Air 737 MAX 8, which crashed in Indonesia in October, killing 189. Those similarities “warrant further investigation of the possibility of a shared cause for the two incidents that need to be better understood and addressed,” the FAA wrote.
+
+The thing is, Boeing and the FAA had already settled on a way to address the likely cause of the Lion Air crash. And they were well on their way to implementing it when the Ethiopian plane went down.
+
+Indonesia’s civil aviation authority hasn’t published any findings as to the cause of the Lion Air crash, but in its preliminary report, the agency examined the MAX’s Maneuver Characteristics Augmentation System, or MCAS. Boeing designed the system after discovering during flight testing that the 737 MAX engine placement—higher and farther out on the wing than on the previous generation—could pitch the plane upward in certain conditions, increasing the likelihood of a stall.
+
+When the MCAS detects the plane climbing too steeply without enough speed—a recipe for a stall—it moves the yoke forward, using the horizontal stabilizer on the tail to bring the nose of the plane down. “It’s a fancy name for what we used to call ‘a stick pusher,’” says Ross Aimer, CEO of Aero Consulting Experts, who is rated to fly every type of Boeing jet. It’s distinct from an autopilot system, and only kicks in when the plane is being manually flown, the way a car’s traction control activates to keep a driver from skidding out.
+
+The problem with the Lion Air flight was the MCAS went to work when it shouldn’t have. The 737 MAX was climbing normally, but due to a faulty sensor the digital flight data recorder detected a hard-to-believe 20-degree difference in the angle of attack between the left and right sides. Over the next 10 minutes, the pilots repeatedly tried to pull the plane’s nose back up, but the MCAS kept forcing the yoke forward, pushing the plane down. Ultimately, the plane crashed into the Java Sea, killing everyone aboard.
+
+If the pilots had known the MCAS was at fault, they could have shut down the plane’s ability to automatically adjust its trim (which determines its position in the air) so they could manually do it themselves. But they ended up “behind the airplane,” confused and trying to figure out what the computer was up to. “When you’re behind the airplane, you’re almost dead,” Aimer says.
+
+That may be because they didn’t know the MCAS existed: In the jet’s manual, Boeing had not noted its presence. In November, The Wall Street Journal reported that the company had worried about “inundating average pilots with too much information—and significantly more technical data—than they needed or could digest.” Meanwhile, Boeing was pitching the 737 MAX to airlines as being so similar to the previous generation that pilots flying the old 737 would barely need any new training.
+
+Soon after the Lion Air crash, the FAA issued an Emergency Airworthiness Directive, telling Boeing to update its manual and provide instructions for how to handle what happened to the Lion Air pilots. “If an erroneously high single angle of attack (AOA) sensor input is received by the flight control system, there is a potential for repeated nose-down trim commands,” it wrote.
+
+Like most modern plane crashes, the Lion Air one was born of multiple problems. The angle of attack sensor’s incorrect reading triggered a system the pilots didn’t know existed and didn’t know how to manage. “We have this strange failure of this sensor signal, and behind it unfortunately we have a weak system implementation,” says Bjorn Fehrm, a Swedish Air Force veteran and aviation analyst with Leeham News and Analysis.
+
+The solution, then, is twofold: Boeing started by warning airlines that the MAX’s angle of attack sensors had malfunctioned before, that such a failure could lead the MCAS to push the plane’s nose down, and that pilots could safely defuse the problem by cutting off the trim system and working the plane manually.
+
+After making sure pilots knew about the problem and how to resolve it, Boeing would work on a longterm solution. Essentially, it would rejigger the software governing MCAS so that it wouldn’t be as prone to jumping into action based on one scary sensor reading, instead considering more data. And it would limit how many times it can engage.
+
+Boeing said it would have it done within a few months. Then the Ethiopian Airlines jet crashed. We don’t yet know if the jet’s MCAS system is what brought the plane down, or what other factors may have been at work. We do know that what seemed a straightforward fix to an unforeseen problem is now muddied—and that the 737 MAX won’t take off again until it’s been cleared up.
+
+More Great WIRED Stories
+*****
+https://www.reuters.com/article/us-ethiopia-airplane-grounding-idUSKBN1QS0D2
+Ethiopian Airlines grounds its Boeing 737 MAX 8 fleet
+(Reuters) - Ethiopian Airlines has grounded its Boeing Co 737 MAX 8 fleet until further notice, the airline said on its Twitter account on Monday, a day after a crash killed all 157 people on board one of its planes of the same type.
+
+“Although we don’t yet know the cause of the crash, we had to decide to ground the particular fleet as extra safety precaution,” the airline said.
+
+Ethiopian Airlines has a fleet of four 737 MAX 8 jets, not counting the one that crashed on Sunday, according to flight tracking website FlightRadar24.
+
+China on Monday ordered its airlines to suspend operations of their 737 MAX 8 jets by 6 p.m. (1000 GMT) following the crash in Ethiopia, the second of a Boeing 737 MAX jet since one operated by Indonesia’s Lion Air crashed in October.
+*****
+https://www.businessinsider.com/china-grounds-its-domestic-boeing-737-max-8-planes-after-ethiopian-airlines-crash-2019-3
+China grounds all its Boeing 737 MAX 8 planes following the deadly Ethiopian Airlines crash
+China's Aviation Authority said on Monday morning local time that it has issued a notice to ground all Boeing 737 MAX 8 planes used by domestic airlines in response to the recent Ethiopian Airlines crash which killed 157 people.
+
+The Ethiopian Airlines crash occurred six minutes after takeoff on Sunday aboard a Boeing 737 MAX 8 plane. This is the second crash involving a Boeing 737 MAX 8 plane in recent months — in October, Lion Air flight 610 crashed into the Java Sea 12 minutes after takeoff.
+
+According to a statement posted to the Civil Aviation Administration of China (CAAC)'s website, the Ethiopian Airlines crash and the Lion Air crash have certain similarities that have caused concern over the Boeing aircraft.
+
+The statement added that both incidents involved newly delivered Boeing 737 MAX-8 aircrafts and both occurred in the takeoff phase of the flight.
+
+The notice, issued at 9 a.m. local time, would suspend commercial operation of the aircraft until 6 p.m. on Monday. Chinese state media said the country operates 97 MAX planes domestically.
+
+Ethiopian Airlines on Monday morning local time also grounded all of its MAX 8 aircrafts. South Korea's transportation ministry said Monday afternoon it would also be conducting an emergency safety inspection on two of its MAX 8 planes.
+
+In an email, a spokesperson for Boeing declined to comment on the specifics surrounding China's decision, but said: "a Boeing technical team will be travelling to the crash site [in Ethiopia] to provide technical assistance under the direction of the Ethiopia Accident Investigation Bureau and U.S. National Transportation Safety Board."
+
+A spokesperson for Boeing China told Business Insider: "Safety is our number one priority and we are taking every measure to fully understand all aspects of this accident, working closely with the investigating team and all regulatory authorities involved. The investigation is in its early stages, but at this point, based on the information available, we do not have any basis to issue new guidance to operators."
+
+Sunday's crash has called the Boeing 737 MAX 8 safety into question
+
+National Transportation Safety Committee investigator Nurcahyo Utomo holds a model of an airplane during a press conference on the committee's preliminary findings on their investigation on the crash of Lion Air flight 610, in Jakarta, Indonesia. Associated Press
+
+157 people, including 149 passengers and 8 crew, died aboard the Ethiopian Airlines flight ET 302 to Nairobi on Sunday morning. There were no survivors.
+
+The flight crashed at 8:44 a.m. on Sunday morning near the town of Bishoftu, 62 kilometers southeast of the capital Addis Ababa.
+
+The flight's captain was Yared Getachew who had more than 8,000 cumulative flight hours, the airline said. The flight's first officer was Ahmed Nur Mohammod Nur who had just 200 hours. It's unclear how many of the pilots' flight hours were in the Boeing 737 MAX 8.
+
+The brand new Boeing 737 MAX 8, registration ET-AVJ, was just delivered to Ethiopian Airlines in November 2018.
+
+According to the airline, the aircraft underwent a rigorous "first check maintenance" on February 4 and had flown back to Addis Ababa from Johannesburg, South Africa earlier in the morning.
+
+The cause of the crash is not yet known. However, flight tracking website Flightradar24 detected that the flight had shown "unstable vertical speed" before crashing.
+
+In October, a different Boeing 737 MAX 8 plane belonging to Lion Air crashed into the Java Sea, killing all 189 people on board. The black box was recovered from the crash, which showed that the two pilots battled to stay in the air and the difficulties they faced in dealing with what may have been a rogue automated system.
+
+According to the New York Times, data recovered was also consistent with Indonesian investigators' main lead: that a system Boeing installed on its 737 MAX planes called the "maneuvering characteristics augmentation system," or MCAS, designed to prevent the nose from getting too high and causing a stall, actually forced it down because of incorrect data from sensors on the fuselage.
+
+Lion Air Flight 610 was repeatedly pushed into a dive position most likely because of the automated system's malfunctioning sensors, a fault that began moments after it took off from Jakarta en route to Bali, The Times reported.
+
+The plane had reportedly encountered a similar issue on a flight the previous day. It is unclear if the pilots had the proper training to deal with the system malfunction they encountered. The first batch of the brand-new Boeing aircrafts first took flight in 2016.
+
+Boeing's most recent reports indicate that 350 MAX planes have been delivered to airlines around the world, including to airlines in the US, Mexico, Canada, and China. Another 4,661 have been placed on order.
+
+Southwest Airlines, which operates several MAX planes, responded to fears on Twitter on Sunday, saying that it had operated "approximately 31,000 flights utilizing the Boeing 737 MAX 8 aircraft" and would not be waiving fare rules to customers looking to rebook.
+
+United Airlines, which operates 14 Boeing 737 MAX 9 planes in its fleet but no MAX 8's, also responded to concerns on Twitter, assuring its customers that its pilots were properly trained to fly the MAX 9 safely.
+
+Adam Bienkov, Christian Edwards, and Reuters contributed to this report.
+*****
+https://www.nytimes.com/2019/03/13/briefing/brexit-boeing-cardinal-pell-your-wednesday-briefing.html
+Brexit, Boeing, Cardinal Pell: Your Wednesday Briefing
+The automaker — which narrowly beat out Toyota as the world’s largest vehicle manufacturer in 2018 — sells only a small number of electric cars, and it’s taking a major risk. Sales of such vehicles are growing fast but still account for only a sliver of the new car market .
+
+Related: Established automakers are realizing that a shift to battery power also requires them to retool their sales machinery.
+
+Here’s what else is happening
+
+Venezuela: While power was restored to much of Venezuela after a multiday blackout, the government began investigating Juan Guaído, the leader of the opposition, and charged a prominent journalist with inciting violence, claiming they had played a role in the supposed sabotage of the country’s electrical system .
+
+U.S. immigration: The director of U.S. Citizenship and Immigration Services, L. Francis Cissna, above last June, told staff members that the international division, which has operations in more than 20 countries, would close down by the end of the year, according to two people with knowledge of the meeting. The idea is to shift resources to address a backlog in asylum applications.
+
+Google: Alphabet’s board of directors agreed to pay Amit Singhal, a former top executive at the search giant, as much as $45 million when he resigned in 2016 after being accused of groping an employee. His payment was revealed in a shareholder lawsuit filed this week that accuses Alphabet of shirking its responsibilities and paying executives instead of firing them for just cause.
+*****
+https://www.nytimes.com/2019/03/13/business/canada-737-max.html
+U.S. Grounds Boeing Planes, After Days of Pressure
+After the Indonesian crash, pilots’ unions complained that pilots had not been made aware of a change to the flight-control system on the Max that could automatically push the plane’s nose down in certain situations. That software change is believed to have played a role in the Lion Air crash and may have been a factor in the Ethiopia accident as well. Boeing is now planning to roll out a software update that has been in the works since the Indonesian crash.
+
+The introduction of a consequential new flight-control feature without any requirement for pilot training is now drawing more scrutiny. Representative Peter A. DeFazio, Democrat of Oregon and the chairman of the House transportation committee, said in an interview that he planned to conduct an investigation into the F.A.A.’s certification of the 737 Max, with a focus on why the regulator did not require more substantial training for 737 pilots learning to fly the new version.
+
+Mr. DeFazio said he expected to seek all relevant communications between Boeing and the F.A.A., among other documents, and was willing to use subpoena power if necessary. “This warrants vigorous investigation,” he said. “We’re going to get anything in writing there is to get.”
+
+Airlines in the United States stood behind the planes up until the F.A.A.’s order, and even expressed confidence in the jets afterward. Southwest Airlines said in a statement that it had been in “constant contact” with the F.A.A. and Boeing since the Ethiopian Airlines crash and that it remained confident in the 737 Max aircraft after flying the planes for more than 88,000 hours over 41,000 flights without incident. American said, “We continue to have the utmost confidence in our fleet.” The groundings in the United States and elsewhere also affected Boeing’s Max 9 model, which United Airlines flies.
+
+“I don’t want to hazard a guess,” Mr. Elwell said when asked how long the Boeing planes might be prohibited from flying. “My hope is that the F.A.A., the carriers, the manufacturer, that all parties will work very hard to make this grounding as short as possible so that these airplanes can get back up in the sky.”
+
+On Tuesday morning, Boeing’s chief executive, Mr. Muilenburg, had called Mr. Trump to personally express his confidence in the safety of the jets, according to two people briefed on the conversation.
+
+The brief call had already been in the works, but it happened to come shortly after Mr. Trump raised concerns that airplanes were becoming too complex to fly and therefore endangering passengers. “Pilots are no longer needed, but rather computer scientists from MIT,” he wrote on Twitter.
+*****
+https://www.nytimes.com/2019/03/13/briefing/boeing-brexit-lagos.html
+Boeing, Brexit, Lagos: Your Thursday Briefing
+George Pell: The Australian cardinal who is the highest ranking Catholic official to be convicted of sexually abusing minors was sentenced to six years in prison, far short of the 50-year maximum.
+
+U.S. Colleges: Fifty people, including Hollywood stars and business executives, were charged in a sweeping investigation into an admissions scheme to buy spots at Stanford, Yale and other competitive American universities.
+
+Paul Manafort: President Trump’s former campaign chairman now faces a total prison time of seven and a half years after a second federal judge added to the 47 months he received last week for tax and bank fraud in two cases brought by the special counsel. On the same day, Mr. Manafort was charged with mortgage fraud and more than a dozen other New York felonies, an effort to ensure that he will face prison time even if President Trump pardons his federal crimes.
+
+Iran: Nasrin Sotoudeh, a prominent Iranian human rights lawyer who was detained for eight months without explanation, has been sentenced to 38 years in prison and 148 lashes, her husband said. Ms. Sotoudeh was known for defending women who had been arrested for removing their head scarves in public protests.
+
+Afghanistan: For the second time in just a few days, an Afghan Army base was completely destroyed, this time by American airstrikes that killed six soldiers and wounded nine others, officials said.
+
+Vietnam: A prominent historian who challenged Beijing’s territorial claims in the South China Sea was expelled from the ruling Communist Party for comments he made on Facebook, underlining the country’s sensitivity around its relationship with China, its largest trading partner.
+
+K-pop: A singer, Jung Joon-young, apologized for filming and sharing intimate videos of women without their consent, just as the country was reckoning with news that another celebrity, Lee Seung-hyun, who performed under the name Seungri, retired after being accused of “offering sexual services” at nightclubs.
+*****
+https://www.nytimes.com/2019/03/13/briefing/brexit-california-leveon-bell.html
+Brexit, California, Le’Veon Bell: Your Wednesday Briefing
+The cause of the crash is unclear, but the groundings were driven in part by regulators’ concerns about similarities to a deadly accident in October involving a 737 Max 8.
+
+The U.S. continues to hold out. Boeing’s chief executive made a personal appeal to President Trump, assuring him of the model’s safety. The Federal Aviation Administration said that the planes could keep flying as it continued its review.
+
+Catch up: At least two pilots in the U.S. had filed incident reports that raised concerns about safety and training on the Max 8 jets. Here’s the latest.
+
+Your questions: A former air safety investigator answers.
+
+Wealthy parents are charged in college admissions scandal
+
+Fifty people were accused in a scheme to buy spots at Stanford, Yale and other competitive universities in what a U.S. attorney called the “largest college admissions scam ever prosecuted by the Department of Justice.”
+*****
+https://www.bbc.co.uk/news/business-47553787
+Canada joins ban on Boeing crash aircraft
+Image copyright NurPhoto
+
+Canada has grounded the world's third largest fleet of Boeing 737 Max 8 aircraft, following the crash of an Ethiopian Airlines jet on Sunday.
+
+The country's regulator said that three Canadian airlines, operating 41 Max 8 jets, would be unable to use them in Canada's airspace.
+
+Canada joins a long list of countries to halt the aircraft's use. But the US regulator says it is safe to fly.
+
+Canada's transport minister said it had received new evidence about the crash.
+
+Marc Garneau said that satellite data showed possible similarities between flight patterns of Boeing 737 Max planes operating in Canada and the Ethiopian Airlines plane that crashed.
+
+He said: "As a result of new data that we received this morning, and had the chance to analyze, and on the advice of my experts and as a precautionary measure, I issued a safety notice.
+
+"This safety notice restricts commercial passenger flights from any operator of the Boeing 737 MAX 8 or MAX 9 variant aircraft, whether domestic or foreign, from arriving, departing or overflying Canadian air space.
+
+"This safety notice is effective immediately and will remain in place until further notice."
+
+The Polish Civil Aviation Authorities also announced on Wednesday that it had closed its aerospace to the Boeing 737 Max 8.
+
+The UK, the European Union, China, Australia and India are among the countries that have suspended the Boeing 737 Max from their airspace.
+
+However, the US Federal Aviation Administration said a review had showed "no systemic performance issues" and that there was no basis for grounding the aircraft.
+
+On Wednesday, the chief executive of Ethiopian Airlines, Tewolde Gebremariam, told the BBC that all 737 Max aircraft worldwide should be grounded until the causes of the crash were known.
+
+'Don't sink! Don't sink!'
+
+Meanwhile, it has emerged that pilots in the US had complained about problems controlling the Boeing 737 Max 8 during take-off, echoing difficulties that contributed to the fatal Lion Air crash in Indonesia last October.
+
+Documents reveal that pilots reported engaging autopilot only for the aircraft's nose to pitch lower, prompting the warning system to exclaim: "Don't sink! Don't sink!"
+
+The Ethiopian Airlines plane crashed just six minutes into its flight.
+
+Two US pilots reported separate incidents involving the 737 Max's automatic anti-stalling system in November.
+
+The feature - new to the the 737 Max family, which began flying commercially in 2017 - is designed to keep the plane from stalling.
+
+The system prevents the aircraft from pointing upwards at too high an angle, where it could lose its lift.
+
+Image copyright Getty Images Image caption Investigators examine wreckage from the Ethiopian Airlines plane crash
+
+However, according to filings with the US Aviation Safety Reporting System, which pilots use to disclose information anonymously, it appeared to force the nose down.
+
+In both cases, pilots were forced to intervene to stop the plane from descending.
+
+One first officer said that they had discussed what had happened at length with the captain
+
+"I reviewed in my mind our automation setup and flight profile but can't think of any reason the aircraft would pitch nose down so aggressively," they said.
+
+Investigators have recovered the flight data recorders from the Ethiopian Airlines plane crash but have yet to determine what caused the accident.
+
+Flightradar24 reported that that the plane vertical speed was unstable after take off.
+
+'Criminally insufficient'
+
+After the Lion Air crash, Boeing issued guidance on what to do regarding erroneous readings from the sensor, which sends out information about what angle a plane is flying at.
+
+But another pilot said that "it did nothing" to address the problems with the sensor.
+
+They said: "I think it is unconscionable that a manufacturer, the FAA, and the airlines would have pilots flying an airplane without adequately training, or even providing available resources and sufficient documentation to understand the highly complex systems that differentiate this aircraft from prior models.
+
+They added: "I am left to wonder: what else don't I know? The flight manual is inadequate and almost criminally insufficient."
+*****
+https://www.nytimes.com/2019/03/13/opinion/boeing-737-grounded.html
+Opinion | The 737 Max Is Grounded, No Thanks to the F.A.A.
+They take that responsibility very seriously, and grounding an aircraft is an extreme step rarely taken. Most accidents today do not result from systematic aircraft flaws that would justify grounding an entire fleet. I recommended grounding an airliner model only once in my seven years as chairman of the National Transportation Safety Board, following a commuter airliner crash in Indiana.
+
+Since this new “regulatory” scheme took effect, the aviation industry has introduced two new aircraft types, both of which have encountered serious problems. In 2013, Boeing’s 787 Dreamliner was grounded because of fires caused by lithium batteries. In that case, the agency quickly recertified the safety of the aircraft, even before the exact cause of the Dreamliner problems had been determined.
+
+And now, we have the troubled flight management systems of the 737 Max 8, which made its first commercial flight in May 2017. In this case, there have been two catastrophic accidents within five months of each other, involving a relatively new model of aircraft . Boeing itself acknowledges that it is developing a revision to its flight management system.
+
+In the end, grounding this aircraft is the right thing to do. It will allow regulators and Boeing’s engineers to determine what exactly caused this crash. The Boeing 737 has been the most successful jet transport ever, with thousands of them serving as the workhorses of the world’s airline industry for half a century. This was thanks to some of the finest aeronautical engineers of their generation, along with a superior aviation safety regulatory system that identified and corrected flaws in technology or operations.
+*****
+https://www.businessinsider.com/indonesia-grounds-boeing-737-max-8-ethiopia-airlines-crash-2019-3
+Indonesia is grounding all Boeing 737 Max 8 planes after a crash in Ethiopia killed 157 people
+Indonesia has joined China in grounding all of its Boeing 737 Max 8 planes after the model was involved in an Ethiopian Airlines crash that killed 157 people.
+
+Indonesia's air-safety regulator on Monday said it would halt all flights involving the planes starting Tuesday. The decision was reported Monday by Bloomberg and the Associated Press.
+
+Sunday's Ethiopian Airlines crash is the second crash involving the plane in less than six months. All 189 people on board were killed when a Lion Air flight in Indonesia crashed into the Java Sea in October. Investigations into the cause of both crashes are ongoing.
+
+Read more: China grounds all its Boeing 737 Max 8 planes following the deadly Ethiopian Airlines crash
+
+The Ethiopian Airlines flight crashed Sunday morning just six minutes after takeoff. In response, China's Aviation Authority on Monday morning said it had issued a notice to ground all Boeing 737 Max 8 planes used by domestic airlines.
+
+A Boeing 737 Max 8 aircraft. Boeing
+
+A statement on the Civil Aviation Administration of China's website said the Ethiopian Airlines crash and the Lion Air crash had similarities that caused concern over the aircraft.
+
+Read more: Boeing crash woes set to wipe $21 billion off market cap, dragging Dow lower, after China and Ethiopia to ground some 737s
+
+A Boeing representative declined to comment on China's decision but told Business Insider in an email that a Boeing technical team would be travelling to the crash site in Ethiopia to provide technical assistance with the investigation.
+
+Read more:
+
+An Ethiopian Airlines passenger said he missed the crashed flight by 2 minutes: 'I'm grateful to be alive'
+
+Indonesia is grounding all Boeing 737 Max 8 planes after a crash in Ethiopia killed 157 people
+
+These are the victims of the Boeing 737 Max 8 crash in Ethiopia
+
+The black box from the crashed Ethiopian Airlines flight has been found
+*****
+https://www.reuters.com/article/us-ethihopia-airplane-trump-idUSKCN1QU2KW
+U.S. Congress wants to know why the FAA waited so long to ground Boeing 737 jets
+WASHINGTON (Reuters) - Congress plans to scrutinize why the United States waited so many days to ground all Boeing Co 737 MAX jets involved in Sunday’s crash in Ethiopia as other countries and airlines acted more quickly.
+
+FILE PHOTO: An American Airlines Boeing 737 Max 8, on a flight from Miami to New York City, comes in for landing at LaGuardia Airport in New York, U.S., March 12, 2019. REUTERS/Shannon Stapleton/File Photo
+
+The Federal Aviation Administration said the order on Wednesday was the result of “new evidence collected at the site and analyzed today” and “newly refined satellite data” that Canada had cited earlier in its decision to halt flights.
+
+The FAA did not disclose the new evidence at the scene but said it was “the missing pieces” that aligned the track of the two fatal Boeing 737 MAX 8 crashes since October.
+
+For decades, the United States has led the world in aviation safety, often setting standards that were later adopted by other countries. The agency came under heavy criticism from U.S. lawmakers and others who questioned why the FAA waited so long to ground the Boeing 737 MAX.
+
+FAA officials plan to brief lawmakers Thursday, two people familiar with the matter told Reuters.
+
+While President Donald Trump announced the ban on television, acting FAA Administrator Dan Elwell said he made the decision with the support of Transportation Secretary Elaine Chao.
+
+“We were resolute in our position that we would not take action until we had data to support taking action,” Elwell told reporters. “That data coalesced today and we made the call.”
+
+Canada grounded the planes earlier on Wednesday while the European Union acted on Tuesday. China and some airlines ordered the planes not to fly within hours of the crash on Sunday.
+
+As of Wednesday night, regulators in Argentina and Mexico had not grounded planes.
+
+House Transportation and Infrastructure Committee Chairman Peter DeFazio, a Democrat, said “it has become abundantly clear to us that not only should the 737 MAX be grounded but also that there must be a rigorous investigation into why the aircraft, which has critical safety systems that did not exist on prior models, was certified without requiring additional pilot training.”
+
+Elwell said Wednesday he was confident in the 737’s certification.
+
+The Senate Commerce Committee also plans to hold a hearing as early as April. Senator Ted Cruz said he plans “to investigate these crashes, determine their contributing factors, and ensure that the United States aviation industry remains the safest in the world.”
+
+The grounding was an abrupt reversal as the United States had repeatedly insisted the airplane was safe to fly even as regulators and airlines around the world grounded the airplane.
+
+Trump spoke to Boeing Chief Executive Dennis Muilenburg on Wednesday before the announcement.
+
+United Airlines, American Airlines and Southwest Airlines Co all fly versions of the 737 MAX and immediately halted flights on Wednesday.
+
+American, with 24 737 MAX airplanes, said it will be “working to re-book customers as quickly as possible, and we apologize for any inconvenience.”
+
+Boeing said it supported the action to temporarily ground 737 max operations after it consulted with the FAA, NTSB and its customers. Boeing shares were down 2 percent.
+
+The shift came less than a day after U.S. regulators had again insisted the plane was safe. Even Chao flew aboard a 737 MAX on Tuesday.
+
+The FAA plans to mandate design changes by April that have been in the works for months for the 737 MAX 8 fleet. Boeing said late Monday it will deploy a software upgrade across the 737 MAX 8 fleet “in the coming weeks.”
+
+FILE PHOTO: A Boeing 737 MAX 8 aircraft is parked at a Boeing production facility in Renton, Washington, U.S., March 11, 2019. REUTERS/David Ryder/File Photo
+
+The company confirmed it had for several months “been developing a flight control software enhancement for the 737 MAX, designed to make an already safe aircraft even safer.”
+
+The FAA said the changes will “provide reduced reliance on procedures associated with required pilot memory items.”
+
+Elwell said Wednesday he was hopeful software improvements “will be ready in a couple months” after testing and evaluation is completed by the FAA of what he called a “software patch.”
+*****
+https://www.nytimes.com/2019/03/12/business/boeing-flights-grounded.html
+Boeing Flights Grounded Across the Globe, but Not in the U.S.
+Two United States airlines fly the 737 Max 8 aircraft and both said they planned to keep flying. Southwest Airlines has 34 of the planes and American Airlines has 24. The airlines have said they have analyzed data from their thousands of flights with the jets and found no reason to ground them.
+
+“We don’t have any changes planned,” Southwest said in a statement. “We have full confidence in the aircraft,” American said.
+
+The growing pressure left Boeing in an increasingly unfamiliar position. The company, a major military contractor, has close ties with the American government, and the F.A.A. in particular.
+
+[Three generations of a Canadian family died in the Ethiopian plane crash.]
+
+Boeing is a major lobbying force in the nation’s capital. Its top government relations official is a veteran of the Clinton White House, and last year, the company employed more than a dozen lobbying firms to advocate for its interests and spent $15 million in total on lobbying, according to the Center for Responsive Politics.
+
+The company, through its political action committee, funnels millions of dollars into the campaign accounts of lawmakers from both political parties. A list of a year’s worth of political spending on Boeing’s website stretches on for 14 pages, listing campaign contributions to lawmakers ranging from a city councilman in South Carolina to Representative Nancy Pelosi of California, who is now the House speaker.
+
+“Boeing is one of the 800-pound gorillas around here,” said Senator Richard Blumenthal, Democrat of Connecticut, who has called for the Max 8 to be grounded. As an example of Boeing’s reach in the highest levels of government, Mr. Blumenthal noted that the acting defense secretary, Patrick M. Shanahan, is a former Boeing executive.
+>>>>>>> 036606f5efa6a891bc0940ece104183b0c021e18
+*****
