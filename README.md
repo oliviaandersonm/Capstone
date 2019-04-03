@@ -9,5 +9,6 @@ Train/test data was obtained from [sentence polarity dataset v1.0](http://www.cs
 
 ### Application/Analysis
 `Authors` and `BiasPlot` contain programs to inspect/informally test the classifications on data from [All the news](https://www.kaggle.com/snapcrack/all-the-news).
+Charts and graphs comparing outputs of a completed model (a neural network with an LSTM layer and word2vec embeddings) are created using pyplot and matplotlib in `plot.py` and `bar.py`.
 Files for generating differences and similarities in bodies of text are in `matching`, using [News API](https://newsapi.org/) and Word Mover's Distance as described by [Kusner, Sun, Kolkin, & Weinberger](http://proceedings.mlr.press/v37/kusnerb15.pdf).
 
