@@ -1,5 +1,5 @@
-# Identifying Political Bias in News Articles - CS Capstone 2019
-Working repository project by Emily Zurek & Olivia Anderson - the goal is to use subjectivity/objectivity sentence classification to examine political bias in the news.
+# Identifying Bias in News Articles - CS Capstone 2019
+Working repository project by Emily Zurek & Olivia Anderson - the goal is to use subjectivity/objectivity sentence classification to examine bias in the news.
 
 ### Classifiers
 `linear-SVC` and `LSTM` contain files to train/test and apply different classification models, built with [scikit-learn](https://scikit-learn.org/stable/) and [Keras](https://keras.io/). `tests` contains some experimentation files and their results. All models were trained and tested using the same data.
