@@ -27,11 +27,6 @@ while(line):
     ratio_dic[arr[0]] = ratio
     line = file.readline()
 
-sources.remove('usa-today')
-sources.remove('vice-news')
-sources.remove('time')
-sources.remove('BusinessInsider')
-sources.remove('financial-times')
 #skew averages based on opeds
 #greater number => less ops
 ops_dic = {
@@ -162,7 +157,7 @@ for source in sources:
     p.append(color)
 
 
-fig = plt.figure(figsize=(20,10))
+fig = plt.figure(figsize=(10,5))
 fig.add_axes()
 a1 = fig.add_subplot(111)
 a1.set(title='Reported Bias vs. Predicted Objectivity',
@@ -171,10 +166,10 @@ a1.set(title='Reported Bias vs. Predicted Objectivity',
 a1.set_xlim([-40, 40])
 a1.set_ylim([50,100])
 
-show_sources = ['Breitbart', 'Reuters']
+show_sources = ['Breitbart', 'Reuters', 'msnbc', 'NewYorkTimes', 'FoxNews']
 for i, source in enumerate(sources):
-    #if source in show_sources:
-    a1.annotate(source, (x[i], y[i]))
+    if source in show_sources:
+      a1.annotate(source, (x[i], y[i]))
 
 
 plt.scatter(x,y, c=p)

@@ -16,7 +16,7 @@ TEST_SPLIT = 0.2
 np.random.seed(7)
 
 #load data
-dataset = pd.read_csv(os.path.expanduser('~/Capstone/data/train_test_data/short_full_data.csv'))
+dataset = pd.read_csv(os.path.expanduser('~/Capstone/data/train_test_data/full_data.csv'))
 
 sentences = []
 #clean
@@ -93,7 +93,6 @@ for word, i in word_index.items():
         continue
     try:
         vec = df.loc[df['word'] == word].iloc[:,1].values[0].split('x')
-        print(word)
     except(IndexError):
         print('%s not found: no. %d' % (word, i))
     embedding_vector = np.array(vec, dtype=np.float32)
@@ -140,7 +139,7 @@ y_test = labels[-num_test:]
 model.fit(X_train, y_train, batch_size=128, epochs=20, validation_data=(X_test, y_test), verbose=2)
 
 # save model
-model.save('short_Gw2v_LSTM.h5')
+#model.save('short_Gw2v_LSTM.h5')
 #Save tokenizer
-with open('short_lstm_gw2v_tokenizer.pickle', 'wb') as f:
-    pickle.dump(tokenizer, f, protocol=pickle.HIGHEST_PROTOCOL)
+#with open('short_lstm_gw2v_tokenizer.pickle', 'wb') as f:
+    #pickle.dump(tokenizer, f, protocol=pickle.HIGHEST_PROTOCOL)

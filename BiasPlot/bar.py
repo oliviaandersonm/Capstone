@@ -27,8 +27,8 @@ rects2 = ax.bar(index + bar_width, non_op, bar_width,
                 label='Other')
 
 ax.set_xlabel('Source')
-ax.set_ylabel('Percent Objective')
-ax.set_title('OpEds vs Other')
+ax.set_ylabel('Percentage of Sentences Labeled Objective')
+ax.set_title('Opinion Editorials vs. All Articles')
 ax.set_xticks(index + bar_width / 2)
 ax.set_xticklabels(sources)
 ax.legend()
